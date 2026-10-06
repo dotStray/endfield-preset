@@ -1,0 +1,19 @@
+{
+  "notes": "Hand corrections. Pack names are readable and permanent; Enka IDs identify source entries.",
+  "join": {
+    "chr_0002_endminm": "EndministratorMale",
+    "chr_0003_endminf": "EndministratorFemale",
+    "M Endministrator": "EndministratorMale",
+    "F Endministrator": "EndministratorFemale",
+    "Endministrator_M": "EndministratorMale",
+    "Endministrator_F": "EndministratorFemale",
+    "Wulfgang": "Wulfgard"
+  },
+  "displayNames": {
+    "EndministratorMale": "Endministrator (Male)",
+    "EndministratorFemale": "Endministrator (Female)"
+  },
+  "exclude": [
+    "chr_9000_endmin"
+  ]
+}

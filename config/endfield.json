@@ -1,0 +1,17 @@
+{
+  "repository": "dotStray/endfield-preset",
+  "gameId": "endfield",
+  "displayName": "Arknights: Endfield",
+  "shortName": "EF",
+  "importer": "EFMI",
+  "minAppVersion": "0.1.0",
+  "disabledPrefix": "DISABLED_",
+  "icon": {"googlePlay": "com.gryphline.endfield.gp"},
+  "roster": {
+    "url": "https://raw.githubusercontent.com/EnkaNetwork/API-docs/master/store/ef/"
+  },
+  "hashes": {
+    "catalog": {"repo": "Dr-hydra/Better-Endfield", "path": "tools/CustomModel/catalog", "license": "AGPL-3.0"},
+    "fixer": {"repo": "swaggerosts/EndField_Mod_Fixer", "path": "Endfield_mod_fixer.py"}
+  }
+}

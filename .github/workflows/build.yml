@@ -1,0 +1,86 @@
+# Build and publish changes weekly, when inputs change, or on demand.
+# Portraits and hash blobs are reused; the upstream ledger never discards old observations.
+name: Build packs
+
+on:
+  schedule:
+    - cron: "23 6 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "overrides/**"
+      - "manual/**"
+      - "tools/**"
+      - ".github/workflows/build.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-packs
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      # Use current main after waiting in the queue; leave credentials out of the checkout.
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6
+
+      - name: Test the builder
+        run: uv run --locked --project tools/packbuilder python -m unittest discover -s tools/packbuilder/tests -v
+
+      - name: Name the week
+        id: week
+        run: echo "week=$(date -u +%G-%V)" >> "$GITHUB_OUTPUT"
+
+      - name: Restore downloads
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: .cache
+          key: endfield-downloads-${{ steps.week.outputs.week }}
+          restore-keys: endfield-downloads-
+
+      - name: Build and publish
+        id: build
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: uv run --locked --project tools/packbuilder packbuilder build --publish
+
+      # Save a failed build's report too. Releases precede registry updates, never the reverse.
+      - name: Save the result
+        if: always() && steps.build.outcome != 'skipped'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git config user.name "$GIT_AUTHOR_NAME"
+          git config user.email "$GIT_AUTHOR_EMAIL"
+          for path in packs upstream ledger reports; do
+            if test -d "$path"; then git add -A "$path"; fi
+          done
+          if test -f index.json; then git add index.json; fi
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "build: Endfield preset $(date -u +%Y-%m-%d)"
+          gh auth setup-git
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "Push attempt $attempt failed; trying again."
+            sleep $((attempt * 5))
+          done
+          exit 1

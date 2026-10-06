@@ -1,0 +1,8 @@
+.cache/
+.work-*/
+.build.lock
+dist/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
