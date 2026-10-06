@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-06T00:00:00Z",
+  "packs": [
+    {
+      "gameId": "endfield",
+      "displayName": "Arknights: Endfield",
+      "shortName": "EF",
+      "importer": "EFMI",
+      "versions": [
+        {
+          "packVersion": "2026.10.06",
+          "packSchemaVersion": 1,
+          "minAppVersion": "0.1.0",
+          "url": "https://github.com/dotStray/endfield-preset/releases/download/2026.10.06/endfield-2026.10.06.zip",
+          "sha256": "e74255444922b4178baaa12245e334c4d904182d854f4301ddbf11ccf09b242d",
+          "sizeBytes": 778582,
+          "changelog": "32 characters; current and historical hashes."
+        }
+      ]
+    }
+  ]
+}

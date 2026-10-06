@@ -1,0 +1,1240 @@
+{
+  "changed": true,
+  "packVersion": "2026.10.06",
+  "counts": {
+    "variants": 32,
+    "skins": 0,
+    "images": 32
+  },
+  "gameIcon": "images/_game.webp",
+  "hashes": {
+    "rosterVariants": 32,
+    "currentEntries": 1542,
+    "historicalOnlyEntries": 1289,
+    "totalEntries": 2831,
+    "distinctHashes": 2309,
+    "kinds": {
+      "ib": 816,
+      "position_vb": 832,
+      "texture": 1183
+    },
+    "excludedGlobalHashCount": 17,
+    "unmatchedCatalogCharacters": [
+      "chr_0038_purrche"
+    ],
+    "unmatchedFixerNames": [],
+    "catalogIssues": [
+      {
+        "character": "chr_0014_aurora",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_aurora_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0018_dapan",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_dapan_eyebrow_01_lod0",
+            "reason": "not a complete single-submesh index region"
+          },
+          {
+            "kind": "mesh",
+            "name": "S_actor_dapan_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0019_karin",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_karin_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0021_whiten",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_whiten_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0024_deepfin",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_deepfin_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0025_ardelia",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_ardelia_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0027_tangtang",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_tangtang_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0033_camille",
+        "issues": [],
+        "excludedComponents": [
+          {
+            "mesh_name": "S_actor_camille_skill_01_lod0",
+            "reasons": [
+              "world/UI material slots differ"
+            ]
+          }
+        ]
+      },
+      {
+        "character": "chr_0034_typhoea",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_typhoea_brow_01_lod0",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0035_liino",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_liino_brow_01_lod0",
+            "reason": "not a complete single-submesh index region"
+          }
+        ],
+        "excludedComponents": []
+      },
+      {
+        "character": "chr_0038_purrche",
+        "issues": [
+          {
+            "kind": "mesh",
+            "name": "S_actor_purrchena_fur_01_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          },
+          {
+            "kind": "mesh",
+            "name": "S_actor_purrchena_fur_02_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          },
+          {
+            "kind": "mesh",
+            "name": "S_actor_purrchena_fur_03_lod0_20",
+            "reason": "not a complete single-submesh index region"
+          },
+          {
+            "kind": "mesh_collision",
+            "hash": "6bf2ba87",
+            "components": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "reason": "same IB identity for multiple native parts"
+          }
+        ],
+        "excludedComponents": []
+      }
+    ],
+    "sharedHashes": [
+      {
+        "hash": "c383b676",
+        "characters": [
+          "Akekuri",
+          "Alesh",
+          "Antal",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "Camille",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Typhoeus",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "172348f4",
+        "characters": [
+          "Akekuri",
+          "Alesh",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "Camille",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Typhoeus",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "d5906b6a",
+        "characters": [
+          "Akekuri",
+          "Alesh",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "Camille",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Typhoeus",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "151c9982",
+        "characters": [
+          "Akekuri",
+          "Alesh",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Camille",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "9529b478",
+        "characters": [
+          "Akekuri",
+          "Antal",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Rossi",
+          "Snowshine",
+          "Typhoeus",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "f18a7d64",
+        "characters": [
+          "Akekuri",
+          "Alesh",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "Camille",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "290f53c8",
+        "characters": [
+          "Akekuri",
+          "Arcane",
+          "Ardelia",
+          "Avywenna",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Typhoeus",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "9515ebaf",
+        "characters": [
+          "Akekuri",
+          "Alesh",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "MiFu",
+          "Perlica",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "9750205d",
+        "characters": [
+          "Akekuri",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Typhoeus",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "6899d1a4",
+        "characters": [
+          "Akekuri",
+          "Alesh",
+          "Arcane",
+          "Arclight",
+          "Catcher",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Gilberta",
+          "Laevatain",
+          "MiFu",
+          "Perlica",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Wulfgard",
+          "Xaihi",
+          "Yvonne"
+        ]
+      },
+      {
+        "hash": "eb57e65d",
+        "characters": [
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "MiFu",
+          "Perlica",
+          "Rossi",
+          "Snowshine",
+          "Xaihi",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "fb524ebd",
+        "characters": [
+          "Alesh",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Camille",
+          "Catcher",
+          "Ember",
+          "Estella",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Rossi",
+          "Tangtang",
+          "Typhoeus",
+          "Wulfgard",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "59af8e82",
+        "characters": [
+          "Akekuri",
+          "Arcane",
+          "Ardelia",
+          "Estella",
+          "Laevatain",
+          "LastRite",
+          "Liino",
+          "MiFu",
+          "Perlica",
+          "Pogranichnik",
+          "Rossi",
+          "Snowshine",
+          "Tangtang",
+          "Typhoeus",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "6fe57c68",
+        "characters": [
+          "Akekuri",
+          "Ardelia",
+          "ChenQianyu",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Pogranichnik",
+          "Rossi",
+          "Tangtang",
+          "Typhoeus",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "e3a1caa2",
+        "characters": [
+          "Akekuri",
+          "Arcane",
+          "Arclight",
+          "Ardelia",
+          "Avywenna",
+          "Ember",
+          "EndministratorFemale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "Laevatain",
+          "LastRite",
+          "MiFu",
+          "Perlica",
+          "Xaihi",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "c30d3c7b",
+        "characters": [
+          "Alesh",
+          "Antal",
+          "Arcane",
+          "Camille",
+          "Catcher",
+          "DaPan",
+          "Ember",
+          "Estella",
+          "Fluorite",
+          "Lifeng",
+          "Liino",
+          "MiFu",
+          "Snowshine",
+          "Tangtang",
+          "Typhoeus"
+        ]
+      },
+      {
+        "hash": "5b42ffc1",
+        "characters": [
+          "Akekuri",
+          "Arcane",
+          "Arclight",
+          "Avywenna",
+          "Ember",
+          "EndministratorFemale",
+          "Estella",
+          "Fluorite",
+          "Gilberta",
+          "LastRite",
+          "Perlica",
+          "Snowshine",
+          "Xaihi",
+          "Yvonne"
+        ]
+      },
+      {
+        "hash": "d4b51f22",
+        "characters": [
+          "ChenQianyu",
+          "DaPan",
+          "Fluorite",
+          "LastRite",
+          "Liino",
+          "MiFu",
+          "Pogranichnik",
+          "Tangtang",
+          "Typhoeus",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "b93656c7",
+        "characters": [
+          "Ardelia",
+          "ChenQianyu",
+          "DaPan",
+          "LastRite",
+          "MiFu",
+          "Pogranichnik",
+          "Tangtang",
+          "Typhoeus",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "c6a7235b",
+        "characters": [
+          "Ardelia",
+          "DaPan",
+          "Laevatain",
+          "Liino",
+          "Perlica",
+          "Rossi",
+          "Tangtang",
+          "Typhoeus",
+          "Wulfgard"
+        ]
+      },
+      {
+        "hash": "729762d4",
+        "characters": [
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Laevatain",
+          "Perlica",
+          "Wulfgard",
+          "Yvonne",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "afd96318",
+        "characters": [
+          "Camille",
+          "ChenQianyu",
+          "Ember",
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Estella",
+          "Fluorite",
+          "Xaihi"
+        ]
+      },
+      {
+        "hash": "0a7b28f6",
+        "characters": [
+          "Alesh",
+          "Arcane",
+          "Ember",
+          "Perlica",
+          "Pogranichnik",
+          "Tangtang",
+          "Wulfgard"
+        ]
+      },
+      {
+        "hash": "92caa993",
+        "characters": [
+          "Arclight",
+          "Catcher",
+          "Estella",
+          "Gilberta",
+          "Liino",
+          "Snowshine",
+          "Xaihi"
+        ]
+      },
+      {
+        "hash": "b1872d14",
+        "characters": [
+          "Arcane",
+          "Ardelia",
+          "LastRite",
+          "Liino",
+          "Perlica",
+          "Tangtang",
+          "Typhoeus"
+        ]
+      },
+      {
+        "hash": "d2e9b606",
+        "characters": [
+          "Ardelia",
+          "Avywenna",
+          "Gilberta",
+          "LastRite",
+          "Liino",
+          "Rossi",
+          "Typhoeus"
+        ]
+      },
+      {
+        "hash": "62aeb468",
+        "characters": [
+          "Alesh",
+          "Arcane",
+          "Camille",
+          "Lifeng",
+          "Liino",
+          "Wulfgard"
+        ]
+      },
+      {
+        "hash": "6f97d7e3",
+        "characters": [
+          "Akekuri",
+          "Ember",
+          "Estella",
+          "Fluorite",
+          "Snowshine",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "7cc9cca9",
+        "characters": [
+          "Alesh",
+          "Catcher",
+          "ChenQianyu",
+          "Liino",
+          "Rossi",
+          "Yvonne"
+        ]
+      },
+      {
+        "hash": "a473c7c0",
+        "characters": [
+          "Ardelia",
+          "Laevatain",
+          "MiFu",
+          "Typhoeus",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "31df53ea",
+        "characters": [
+          "Akekuri",
+          "Perlica",
+          "Pogranichnik",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "4afe427a",
+        "characters": [
+          "Estella",
+          "LastRite",
+          "Liino",
+          "Perlica"
+        ]
+      },
+      {
+        "hash": "58f86407",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Lifeng",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "dbf4f80f",
+        "characters": [
+          "ChenQianyu",
+          "Liino",
+          "Snowshine",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "de88be11",
+        "characters": [
+          "ChenQianyu",
+          "Liino",
+          "Rossi",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "1bea5aca",
+        "characters": [
+          "Alesh",
+          "Catcher",
+          "Wulfgard"
+        ]
+      },
+      {
+        "hash": "3927f53c",
+        "characters": [
+          "Alesh",
+          "Pogranichnik",
+          "Wulfgard"
+        ]
+      },
+      {
+        "hash": "39d06c0f",
+        "characters": [
+          "Antal",
+          "Ardelia",
+          "Liino"
+        ]
+      },
+      {
+        "hash": "7809e2d1",
+        "characters": [
+          "Antal",
+          "Camille",
+          "Catcher"
+        ]
+      },
+      {
+        "hash": "81bc6786",
+        "characters": [
+          "Lifeng",
+          "Liino",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "a4f99adc",
+        "characters": [
+          "Akekuri",
+          "ChenQianyu",
+          "Fluorite"
+        ]
+      },
+      {
+        "hash": "cad71e4e",
+        "characters": [
+          "Alesh",
+          "Pogranichnik",
+          "Wulfgard"
+        ]
+      },
+      {
+        "hash": "d3dd5595",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale",
+          "Xaihi"
+        ]
+      },
+      {
+        "hash": "f8fa0f5a",
+        "characters": [
+          "Ardelia",
+          "Pogranichnik",
+          "Snowshine"
+        ]
+      },
+      {
+        "hash": "0681184e",
+        "characters": [
+          "Estella",
+          "Perlica"
+        ]
+      },
+      {
+        "hash": "070d7b84",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "08cc87cd",
+        "characters": [
+          "Liino",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "0a345ac0",
+        "characters": [
+          "Fluorite",
+          "Laevatain"
+        ]
+      },
+      {
+        "hash": "14530240",
+        "characters": [
+          "Ember",
+          "Laevatain"
+        ]
+      },
+      {
+        "hash": "16326b85",
+        "characters": [
+          "Laevatain",
+          "ZhuangFangyi"
+        ]
+      },
+      {
+        "hash": "169808bd",
+        "characters": [
+          "Liino",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "18220d55",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "294012ae",
+        "characters": [
+          "Liino",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "2dcaa4a8",
+        "characters": [
+          "Avywenna",
+          "LastRite"
+        ]
+      },
+      {
+        "hash": "2f3d0ce5",
+        "characters": [
+          "EndministratorFemale",
+          "Xaihi"
+        ]
+      },
+      {
+        "hash": "352d0d3f",
+        "characters": [
+          "Gilberta",
+          "MiFu"
+        ]
+      },
+      {
+        "hash": "36059aef",
+        "characters": [
+          "Catcher",
+          "Wulfgard"
+        ]
+      },
+      {
+        "hash": "4164c6d7",
+        "characters": [
+          "Rossi",
+          "Typhoeus"
+        ]
+      },
+      {
+        "hash": "484f1dc9",
+        "characters": [
+          "Akekuri",
+          "EndministratorFemale"
+        ]
+      },
+      {
+        "hash": "4bd5274e",
+        "characters": [
+          "Rossi",
+          "Typhoeus"
+        ]
+      },
+      {
+        "hash": "4cd1ad3b",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "53a960dd",
+        "characters": [
+          "EndministratorFemale",
+          "Xaihi"
+        ]
+      },
+      {
+        "hash": "54a4126e",
+        "characters": [
+          "Catcher",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "5825df15",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "5e176542",
+        "characters": [
+          "EndministratorMale",
+          "Lifeng"
+        ]
+      },
+      {
+        "hash": "6d436895",
+        "characters": [
+          "MiFu",
+          "Yvonne"
+        ]
+      },
+      {
+        "hash": "704dbf29",
+        "characters": [
+          "Ardelia",
+          "DaPan"
+        ]
+      },
+      {
+        "hash": "82dbb607",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "853b1227",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "9109aad2",
+        "characters": [
+          "Antal",
+          "Xaihi"
+        ]
+      },
+      {
+        "hash": "abd937ac",
+        "characters": [
+          "Lifeng",
+          "Pogranichnik"
+        ]
+      },
+      {
+        "hash": "af560a30",
+        "characters": [
+          "Ember",
+          "Laevatain"
+        ]
+      },
+      {
+        "hash": "b1f947ec",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "c22e4688",
+        "characters": [
+          "Camille",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "c87d2ad7",
+        "characters": [
+          "Alesh",
+          "Snowshine"
+        ]
+      },
+      {
+        "hash": "cd09607e",
+        "characters": [
+          "Camille",
+          "Pogranichnik"
+        ]
+      },
+      {
+        "hash": "cd262dbd",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "d49e15f8",
+        "characters": [
+          "Avywenna",
+          "Fluorite"
+        ]
+      },
+      {
+        "hash": "d57259b8",
+        "characters": [
+          "Gilberta",
+          "Yvonne"
+        ]
+      },
+      {
+        "hash": "d9b56f8f",
+        "characters": [
+          "EndministratorFemale",
+          "Xaihi"
+        ]
+      },
+      {
+        "hash": "e69d7088",
+        "characters": [
+          "Avywenna",
+          "ChenQianyu"
+        ]
+      },
+      {
+        "hash": "ea407455",
+        "characters": [
+          "EndministratorFemale",
+          "EndministratorMale"
+        ]
+      },
+      {
+        "hash": "ea9d4099",
+        "characters": [
+          "Avywenna",
+          "Pogranichnik"
+        ]
+      },
+      {
+        "hash": "f9030180",
+        "characters": [
+          "Liino",
+          "Tangtang"
+        ]
+      },
+      {
+        "hash": "f9e6f3c4",
+        "characters": [
+          "Alesh",
+          "Typhoeus"
+        ]
+      },
+      {
+        "hash": "ffea031e",
+        "characters": [
+          "Estella",
+          "Typhoeus"
+        ]
+      }
+    ],
+    "manualEntries": 0
+  },
+  "warnings": [
+    "Catalog ID chr_0038_purrche is not in Enka; retained in history without adding a character",
+    "Liino: using Enka's round icon while its portrait is unavailable"
+  ],
+  "networkRequests": 76,
+  "manualReplacements": [],
+  "imageRequests": 34,
+  "archive": {
+    "packVersion": "2026.10.06",
+    "packSchemaVersion": 1,
+    "minAppVersion": "0.1.0",
+    "url": "packs/endfield-2026.10.06.zip",
+    "sha256": "e74255444922b4178baaa12245e334c4d904182d854f4301ddbf11ccf09b242d",
+    "sizeBytes": 778582,
+    "changelog": "32 characters; current and historical hashes."
+  }
+}

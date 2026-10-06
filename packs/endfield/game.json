@@ -1,0 +1,93 @@
+{
+  "gameId": "endfield",
+  "displayName": "Arknights: Endfield",
+  "shortName": "EF",
+  "importer": "EFMI",
+  "disabledPrefix": "DISABLED_",
+  "attributes": {
+    "element": {
+      "displayName": "Element",
+      "values": [
+        {
+          "id": "Cryst",
+          "displayName": "Cryo"
+        },
+        {
+          "id": "Fire",
+          "displayName": "Heat"
+        },
+        {
+          "id": "Natural",
+          "displayName": "Nature"
+        },
+        {
+          "id": "Physical",
+          "displayName": "Physical"
+        },
+        {
+          "id": "Pulse",
+          "displayName": "Electric"
+        }
+      ]
+    },
+    "profession": {
+      "displayName": "Class",
+      "values": [
+        {
+          "id": "ASSAULT",
+          "displayName": "Striker"
+        },
+        {
+          "id": "CASTER",
+          "displayName": "Caster"
+        },
+        {
+          "id": "DEFENDER",
+          "displayName": "Defender"
+        },
+        {
+          "id": "GUARD",
+          "displayName": "Guard"
+        },
+        {
+          "id": "SUPPORTER",
+          "displayName": "Supporter"
+        },
+        {
+          "id": "VANGUARD",
+          "displayName": "Vanguard"
+        }
+      ]
+    },
+    "weaponClass": {
+      "displayName": "Weapon",
+      "values": [
+        {
+          "id": "Claymores",
+          "displayName": "Greatsword"
+        },
+        {
+          "id": "Lance",
+          "displayName": "Polearm"
+        },
+        {
+          "id": "Pistol",
+          "displayName": "Handcannon"
+        },
+        {
+          "id": "Sword",
+          "displayName": "Sword"
+        },
+        {
+          "id": "Wand",
+          "displayName": "Arts Unit"
+        }
+      ]
+    },
+    "rarity": {
+      "displayName": "Rarity",
+      "kind": "number"
+    }
+  },
+  "icon": "images/_game.webp"
+}

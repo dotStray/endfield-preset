@@ -1,0 +1,39 @@
+{
+  "packSchemaVersion": 1,
+  "gameId": "endfield",
+  "packVersion": "2026.10.06",
+  "generatedAt": "2026-10-06T00:00:00Z",
+  "builder": "endfield-packbuilder/0.1.0",
+  "authoredBy": "official",
+  "minAppVersion": "0.1.0",
+  "counts": {
+    "variants": 32,
+    "skins": 0,
+    "images": 32
+  },
+  "sources": [
+    {
+      "kind": "roster",
+      "url": "https://raw.githubusercontent.com/EnkaNetwork/API-docs/master/store/ef/"
+    },
+    {
+      "kind": "images",
+      "url": "https://enka.network/ui/ef/"
+    },
+    {
+      "kind": "icon",
+      "url": "https://play-lh.googleusercontent.com/l6FVNa293RykBWy88TqEhUakIcGSC8bRygSnKOBgztln48JX-WzMWnrBAETrKZsxDNC4HhwCsvfle_UI7rBE=s512"
+    },
+    {
+      "kind": "hashes",
+      "url": "https://github.com/Dr-hydra/Better-Endfield",
+      "commit": "d514f2f374fc4ebfcfa2b85c62d8b2f8ce7b6417",
+      "license": "AGPL-3.0"
+    },
+    {
+      "kind": "hashes",
+      "url": "https://github.com/swaggerosts/EndField_Mod_Fixer",
+      "commit": "f1a411ae49ec6dd5903a7f1ef226e263dbdcc298"
+    }
+  ]
+}

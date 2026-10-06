@@ -1,0 +1,258 @@
+{
+  "Akekuri": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0019_karin.png",
+    "sha256": "bec47d59308129de2b832c957b476782047e00dd647dc15dc1932b8980d07ec7",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Akekuri.webp",
+    "packedSha256": "ab8f543f5dd4f9c9751bd84660ee2f74bc9ceb865c30fd378f297fb16026a857"
+  },
+  "Alesh": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0024_deepfin.png",
+    "sha256": "fa813dedb529d51bd08efb65ae5877ccc029052ed8c74b11b1d04f9fa81a8cbf",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Alesh.webp",
+    "packedSha256": "802ce386c9e3ceb0213feaaec5ceee12f612c505c5e05fb60bc82e11e3bd5fb4"
+  },
+  "Antal": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0023_antal.png",
+    "sha256": "db07f37c3e46a6b46b2c61d68dd14c1271bbbceb7fe77f24773a8baf562ab576",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Antal.webp",
+    "packedSha256": "43a09527a3de6e2e6139b129c036145aecf9be33ee147862b1fb18475b1a4228"
+  },
+  "Arcane": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0032_lizhiyan.png",
+    "sha256": "351c6ad91da079168386063868ee86baa657e1fca8a047026075498c5366e7f2",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Arcane.webp",
+    "packedSha256": "3001ee50b9dac35f81178cd0e4a27f548f98f8639a47ae1e55b83d3f09437b15"
+  },
+  "Arclight": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0007_ikut.png",
+    "sha256": "4ae283030058aec512b44d5664c559c13596e12ab78d79c3972797f7105c19c8",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Arclight.webp",
+    "packedSha256": "39cb14717a6014c54f604ee4acbfe867f01cc1ce7c4491a564dee337216b4b37"
+  },
+  "Ardelia": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0025_ardelia.png",
+    "sha256": "143b054b82025e19dcf2d280baedf72c9ae23397553ce64e84a0f139d58bcaeb",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Ardelia.webp",
+    "packedSha256": "d51d10d951244112da9d66f774181201ee1797bcb226221578d103b6bcf45a1a"
+  },
+  "Avywenna": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0012_avywen.png",
+    "sha256": "8660628d2607313f15a8842821f7aea243184d720e0523da4aa5693ed07ff698",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Avywenna.webp",
+    "packedSha256": "67cfee9f99a5448ccbd58e1ef711ac653716f3f46957ad587f8c54faf1d5e360"
+  },
+  "Camille": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0033_camille.png",
+    "sha256": "4e9f45fbefd9f02b7074c43a506b99f1d529c76a9c0ddda8065135f759c62906",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Camille.webp",
+    "packedSha256": "cf0e0e009c5389358d1be6ebc03427de3cef2146598e5b9b2a2bae9a83cf8f48"
+  },
+  "Catcher": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0020_meurs.png",
+    "sha256": "e8de4876f6c4040d3097d1b00cfe3bd7de6eaef900485532be2db85025e24675",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Catcher.webp",
+    "packedSha256": "89079b0b88d0773753f300c29d8fcf8b05dbcc9dd1ebf1f8cb2f78e151d8632e"
+  },
+  "ChenQianyu": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0005_chen.png",
+    "sha256": "a2ac1a4a2f15c4f9147e907656906f8c0ee091f48aeed6caeb69e265fa608c55",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/ChenQianyu.webp",
+    "packedSha256": "e0405d68e82c7eb20b1bfcc6cbf74e18643285ed41bb91e3a1041471b1b598a8"
+  },
+  "DaPan": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0018_dapan.png",
+    "sha256": "55ba7924daf51d5da876ce2ddecc577af252e826f81eab842f244b4a21b56a5b",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/DaPan.webp",
+    "packedSha256": "8967336d1abee7aa6ed2e1a92ecd098eca4ca3db560956d13e8af08a6f69a944"
+  },
+  "Ember": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0009_azrila.png",
+    "sha256": "857d80559798663e33101ff7811690ec4d3c90b22e5135e0f94762a8b77a9fa6",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Ember.webp",
+    "packedSha256": "b87bd6222a7166d7c099cbdb5ca131c079cc152571d4910f9be4813ad43f9a20"
+  },
+  "EndministratorFemale": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0003_endminf.png",
+    "sha256": "c7b6e29a65934d08c29b47ea1dc18fd8c869ae281a73bc68186732a554c665e1",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/EndministratorFemale.webp",
+    "packedSha256": "24fb669b0ea46f4fd1ed3c5f129b44dce877f6e96dd7a89c04b358d27c3e2c75"
+  },
+  "EndministratorMale": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0002_endminm.png",
+    "sha256": "4cf75db68cc885aceacb8ca54166f67800b7ae5e23fd6c4ca22091e431f6b1fb",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/EndministratorMale.webp",
+    "packedSha256": "260db8d0bc51ed986d48556b1ac9957c30e3c3ede4b32d3354082522e556c70a"
+  },
+  "Estella": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0021_whiten.png",
+    "sha256": "c44e6dd093e2a87a790a8d6b8ce614f4f9ed38da225a32ce0f4bb054f35e91e1",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Estella.webp",
+    "packedSha256": "e813ba86f8bba3b8c914a58b7b673c7d7cdf86045b39357fc08d0499416afeab"
+  },
+  "Fluorite": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0022_bounda.png",
+    "sha256": "e7e015861c7d68158956d7d97c84a843a3befedcdd5f95231071d39a52bb24b2",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Fluorite.webp",
+    "packedSha256": "52c0243efac0336ae47f0b31507fbf27498a21d16c3954b5cdf64fda22e2f21a"
+  },
+  "Gilberta": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0013_aglina.png",
+    "sha256": "aa2fb067155b97de404f9615570aa81b832f5a6448260f82ed9abd0453d031a1",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Gilberta.webp",
+    "packedSha256": "a3b6536836b9f436d0bbfa0000213568927c6c2f19648f57696d155c0fa006df"
+  },
+  "Laevatain": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0016_laevat.png",
+    "sha256": "b76cb954b2032f26449c8cb507fcda7373c732340ae6daa31e3ce9f2b4b7b3b6",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Laevatain.webp",
+    "packedSha256": "c7464d911cc81f30aa84e8b3ffb1941b55a8ed43f828a6afe2431928f9b28b0a"
+  },
+  "LastRite": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0026_lastrite.png",
+    "sha256": "5776cd781446ff57e88df56a7ad14ca43eab619caa84f023b2fbc701e195f08b",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/LastRite.webp",
+    "packedSha256": "e2e3a7d6cc0d977d42e75959605219e3b871b19283f15793a4f788b556586d33"
+  },
+  "Lifeng": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0015_lifeng.png",
+    "sha256": "dba117533e8ca0d7d92f4a301a414771eb7d0eca65b4e425434ffbdeebb3d048",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Lifeng.webp",
+    "packedSha256": "82127f2ea5dac8789f3bce736ce54bff973a29cac0696f7e5c34c269f1ff7fdc"
+  },
+  "Liino": {
+    "source": "https://enka.network/ui/ef/charroundicon/icon_round_chr_0035_liino.png",
+    "sha256": "e01444860481a110e1b2592a93259780096e1c628bb137d114a179402201af97",
+    "roundIcon": true,
+    "initialSeed": false,
+    "file": "images/Liino.webp",
+    "packedSha256": "da7567e258560054b037429eba2bb9e407c0edcca4ce41e74d0be949733475be"
+  },
+  "MiFu": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0031_mifu.png",
+    "sha256": "6f529306e13065443b5bcc5d3bfa5b0bd34b62fa5689700d5c05be46dfe05b11",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/MiFu.webp",
+    "packedSha256": "94b51d5bec688efa54b196b65b38237fee0917b13f4202b3dff1f735371eb7cd"
+  },
+  "Perlica": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0004_pelica.png",
+    "sha256": "2fc4ac7174f4502420327c25deecee8c83c6f8dbe8a7fe66005272aafb8c458c",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Perlica.webp",
+    "packedSha256": "c4456b998334f66d2ee8aac65c639969d0ecefe17feb0e6a68a6d4561720a165"
+  },
+  "Pogranichnik": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0029_pograni.png",
+    "sha256": "ce289b919275389afd9ed5a93e8151b3c12d719fec51a1cf63e7be370231903e",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Pogranichnik.webp",
+    "packedSha256": "95576df587073e5a7c58aa7094c63356ae192efa5a0f21a4c29a74e3a0ccb0d3"
+  },
+  "Rossi": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0028_wulfa.png",
+    "sha256": "5e3ae3f0b70aa876b87a92dc1472247b54d4dfe6df8c1dd9f4f6ca437fb84c13",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Rossi.webp",
+    "packedSha256": "aff2d3a9d06aefe81e7b39c850f9c1a283e6ea3a71561586193cd823e642839a"
+  },
+  "Snowshine": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0014_aurora.png",
+    "sha256": "b36b3a37b4af86b5d2557194fb1ccf5e3fb902d47aa67c55bc2fb5c87367d5a1",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Snowshine.webp",
+    "packedSha256": "c3ec8d8025a3e53104cf88b441f1dcfd424b7d586f35bad294c3d2760815eb4e"
+  },
+  "Tangtang": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0027_tangtang.png",
+    "sha256": "8a865a24f653fea619d1f6366d48a68bf301913f67c0669b45b3f1138965bd61",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Tangtang.webp",
+    "packedSha256": "7ffeb79b0235be89e1a18e237e2a7318844fbc57c5e546968dbb87d964d1ba0f"
+  },
+  "Typhoeus": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0034_typhoea.png",
+    "sha256": "73342380d7cff2247617c510575ff076e16621f9d215bf905722c8d4e7250c7a",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Typhoeus.webp",
+    "packedSha256": "f92d86292165cdbd318ed0a47a4b9cc5ec97b93b06499d12355488f1abfb764b"
+  },
+  "Wulfgard": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0006_wolfgd.png",
+    "sha256": "982ee29070c5f5ec0ca7fcd994852e0e0a24a5adbc78502e07dd8e066d8e402f",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Wulfgard.webp",
+    "packedSha256": "ab9fd997df43b7146b5c03db2cbb1cb0d4059f920f14d0a36535a213fe97ddb2"
+  },
+  "Xaihi": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0011_seraph.png",
+    "sha256": "9aa5a6d3594ad010f525a9ad42578080f65071e50156222f4e492ec2d4cf29aa",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Xaihi.webp",
+    "packedSha256": "ddb88547d2ede5f75b0f77137c4bcf64fdc7eb77453263a608a9bbce6f0a9505"
+  },
+  "Yvonne": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0017_yvonne.png",
+    "sha256": "40e7e31d52efe087a14293b545f27eba348c30ed75e42a14a4ce68f00a9bbef9",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Yvonne.webp",
+    "packedSha256": "7e32e51091e797f786da2d965b81fd3336dca3f1d693d9aeb0721ae10c1e7cb6"
+  },
+  "ZhuangFangyi": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0030_zhuangfy.png",
+    "sha256": "d919c5d9eba1ff77cdff477352c7858679f2f4c89b48d8823257597ba7c2d0d7",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/ZhuangFangyi.webp",
+    "packedSha256": "5a7c0f0317e4191aa7cf47e9c365b1541e6a1656d4e2258c72623b869e32937a"
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "catalog": {
+    "repo": "Dr-hydra/Better-Endfield",
+    "path": "tools/CustomModel/catalog",
+    "head": "d514f2f374fc4ebfcfa2b85c62d8b2f8ce7b6417",
+    "headDate": "2026-10-06T15:03:41Z",
+    "snapshots": [
+      {
+        "commit": "7022e71faeffd0137edd29faeede54f428b447cd",
+        "date": "2026-09-19T20:15:13Z",
+        "files": [
+          {
+            "path": "tools/CustomModel/catalog/chr_0002_endminm.json",
+            "sha": "58157b6f69b65d83be1198278454b26658ca53a2"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0005_chen.json",
+            "sha": "a82848177844e459a987184c486c0c0ee2be6c84"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0006_wolfgd.json",
+            "sha": "2d8afc603a307a9884e0f64da176d5ede08ea780"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0007_ikut.json",
+            "sha": "7f7ecb384fca16caaa6d9cb0fcdb89dc01aaa521"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0009_azrila.json",
+            "sha": "571e9fda2e114e5ab09747dea2704be3317f4a59"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0011_seraph.json",
+            "sha": "e52f46bac70f10ca9cdeaa5bdda2c728da25d604"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0012_avywen.json",
+            "sha": "766e89bcb094b039a05ec819fffd6e366004ba13"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0013_aglina.json",
+            "sha": "8242a87c777381f7560c1b49975b468677c16ba3"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0014_aurora.json",
+            "sha": "f7879e5f8e17b937e49f661270e14e81a2670e20"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0015_lifeng.json",
+            "sha": "9bcabaee3ee0bb1009ef2d7071ab59fb9ba18432"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0016_laevat.json",
+            "sha": "da282d868024eca93b337fc629f7a8fba345e5de"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0017_yvonne.json",
+            "sha": "27f66a545cf1cdd1530ab5934a3969511bb9bf8a"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0018_dapan.json",
+            "sha": "e6edb609ee5324cf3ae483611a32d2fdb12c6f03"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0019_karin.json",
+            "sha": "b268fbf63b1d68024e6b76e76746212afd5e7e97"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0020_meurs.json",
+            "sha": "ab991511503f0c42659de241a34210c467028888"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0021_whiten.json",
+            "sha": "ea83937bb243ff68e23fe4afbf330d2121419008"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0022_bounda.json",
+            "sha": "4506ef567fd7d33ea47a4d91c9f1f5d372d4ecbd"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0023_antal.json",
+            "sha": "ef960ca07fd60921a062fdcd799e95252719fc94"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0024_deepfin.json",
+            "sha": "9edd9294420b5f6c6073d6c4245d8b2fcf212bf9"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0025_ardelia.json",
+            "sha": "51675b39781f0600a83a4f7dce71b2ccfef780a6"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0026_lastrite.json",
+            "sha": "c5d9ef0a849dee4f42e0c0a8cac9764886c0a3da"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0027_tangtang.json",
+            "sha": "8797c5120101ed858f2c8daf7fe51f95921c6213"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0028_wulfa.json",
+            "sha": "b9506d74efdf468ecc28423f2abe940526c833bb"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0029_pograni.json",
+            "sha": "f8d6a7fd0422fcfd265cd7b01f1855dfcab2a574"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0030_zhuangfy.json",
+            "sha": "e73b82d18f2466ad572461e7668153a85026207e"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0031_mifu.json",
+            "sha": "6e253195d44b5e5a339d68204e20c3e254325e1b"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0032_lizhiyan.json",
+            "sha": "e940ff73087b330e900c811c51c8b8d8fc2c75cc"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0033_camille.json",
+            "sha": "8923e3512573f28e01624f5bdbe074df53c21b06"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0034_typhoea.json",
+            "sha": "6aa7de416de1d905f483199dcb1f7021b3a46fee"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0035_liino.json",
+            "sha": "c0c9052ea54beea2667c78e810f4472d75c53f51"
+          },
+          {
+            "path": "tools/CustomModel/catalog/coverage.json",
+            "sha": "87619df28e44d8c70f392602e961e79147b415b0"
+          },
+          {
+            "path": "tools/CustomModel/catalog/endminf-pc.json",
+            "sha": "04a0f6250248629735cb99c114d07510f517b2cf"
+          },
+          {
+            "path": "tools/CustomModel/catalog/pelica-pc.json",
+            "sha": "91a140ca17a8be660526c435b31ca9789dd07797"
+          },
+          {
+            "path": "tools/CustomModel/catalog/source-identities.json",
+            "sha": "25b114480b530f196fed3353dc4475ebce601391"
+          }
+        ]
+      },
+      {
+        "commit": "9b1e89599b1d3fbdbf1bcccd2d1b3c48340125c0",
+        "date": "2026-09-26T00:29:16Z",
+        "files": [
+          {
+            "path": "tools/CustomModel/catalog/chr_0002_endminm.json",
+            "sha": "58157b6f69b65d83be1198278454b26658ca53a2"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0005_chen.json",
+            "sha": "a82848177844e459a987184c486c0c0ee2be6c84"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0006_wolfgd.json",
+            "sha": "2d8afc603a307a9884e0f64da176d5ede08ea780"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0007_ikut.json",
+            "sha": "7f7ecb384fca16caaa6d9cb0fcdb89dc01aaa521"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0009_azrila.json",
+            "sha": "735c4e3be683dbab75dd092ad045d790a7047ba4"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0011_seraph.json",
+            "sha": "e52f46bac70f10ca9cdeaa5bdda2c728da25d604"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0012_avywen.json",
+            "sha": "766e89bcb094b039a05ec819fffd6e366004ba13"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0013_aglina.json",
+            "sha": "8242a87c777381f7560c1b49975b468677c16ba3"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0014_aurora.json",
+            "sha": "f7879e5f8e17b937e49f661270e14e81a2670e20"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0015_lifeng.json",
+            "sha": "9bcabaee3ee0bb1009ef2d7071ab59fb9ba18432"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0016_laevat.json",
+            "sha": "da282d868024eca93b337fc629f7a8fba345e5de"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0017_yvonne.json",
+            "sha": "27f66a545cf1cdd1530ab5934a3969511bb9bf8a"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0018_dapan.json",
+            "sha": "e6edb609ee5324cf3ae483611a32d2fdb12c6f03"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0019_karin.json",
+            "sha": "b268fbf63b1d68024e6b76e76746212afd5e7e97"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0020_meurs.json",
+            "sha": "ab991511503f0c42659de241a34210c467028888"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0021_whiten.json",
+            "sha": "ea83937bb243ff68e23fe4afbf330d2121419008"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0022_bounda.json",
+            "sha": "4506ef567fd7d33ea47a4d91c9f1f5d372d4ecbd"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0023_antal.json",
+            "sha": "ef960ca07fd60921a062fdcd799e95252719fc94"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0024_deepfin.json",
+            "sha": "9edd9294420b5f6c6073d6c4245d8b2fcf212bf9"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0025_ardelia.json",
+            "sha": "51675b39781f0600a83a4f7dce71b2ccfef780a6"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0026_lastrite.json",
+            "sha": "c5d9ef0a849dee4f42e0c0a8cac9764886c0a3da"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0027_tangtang.json",
+            "sha": "8797c5120101ed858f2c8daf7fe51f95921c6213"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0028_wulfa.json",
+            "sha": "b9506d74efdf468ecc28423f2abe940526c833bb"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0029_pograni.json",
+            "sha": "f8d6a7fd0422fcfd265cd7b01f1855dfcab2a574"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0030_zhuangfy.json",
+            "sha": "e73b82d18f2466ad572461e7668153a85026207e"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0031_mifu.json",
+            "sha": "6e253195d44b5e5a339d68204e20c3e254325e1b"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0032_lizhiyan.json",
+            "sha": "e940ff73087b330e900c811c51c8b8d8fc2c75cc"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0033_camille.json",
+            "sha": "8923e3512573f28e01624f5bdbe074df53c21b06"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0034_typhoea.json",
+            "sha": "bbd8a328342de118f98bb1718bbb288d1cc62221"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0035_liino.json",
+            "sha": "c0c9052ea54beea2667c78e810f4472d75c53f51"
+          },
+          {
+            "path": "tools/CustomModel/catalog/coverage.json",
+            "sha": "87619df28e44d8c70f392602e961e79147b415b0"
+          },
+          {
+            "path": "tools/CustomModel/catalog/endminf-pc.json",
+            "sha": "04a0f6250248629735cb99c114d07510f517b2cf"
+          },
+          {
+            "path": "tools/CustomModel/catalog/pelica-pc.json",
+            "sha": "91a140ca17a8be660526c435b31ca9789dd07797"
+          },
+          {
+            "path": "tools/CustomModel/catalog/source-identities.json",
+            "sha": "25b114480b530f196fed3353dc4475ebce601391"
+          }
+        ]
+      },
+      {
+        "commit": "ee66f43acdf48db289e35da63876e0b77fe02f96",
+        "date": "2026-10-01T15:08:38Z",
+        "files": [
+          {
+            "path": "tools/CustomModel/catalog/chr_0002_endminm.json",
+            "sha": "58157b6f69b65d83be1198278454b26658ca53a2"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0005_chen.json",
+            "sha": "a82848177844e459a987184c486c0c0ee2be6c84"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0006_wolfgd.json",
+            "sha": "2d8afc603a307a9884e0f64da176d5ede08ea780"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0007_ikut.json",
+            "sha": "7f7ecb384fca16caaa6d9cb0fcdb89dc01aaa521"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0009_azrila.json",
+            "sha": "735c4e3be683dbab75dd092ad045d790a7047ba4"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0011_seraph.json",
+            "sha": "e52f46bac70f10ca9cdeaa5bdda2c728da25d604"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0012_avywen.json",
+            "sha": "766e89bcb094b039a05ec819fffd6e366004ba13"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0013_aglina.json",
+            "sha": "8242a87c777381f7560c1b49975b468677c16ba3"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0014_aurora.json",
+            "sha": "f7879e5f8e17b937e49f661270e14e81a2670e20"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0015_lifeng.json",
+            "sha": "9bcabaee3ee0bb1009ef2d7071ab59fb9ba18432"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0016_laevat.json",
+            "sha": "da282d868024eca93b337fc629f7a8fba345e5de"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0017_yvonne.json",
+            "sha": "27f66a545cf1cdd1530ab5934a3969511bb9bf8a"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0018_dapan.json",
+            "sha": "e6edb609ee5324cf3ae483611a32d2fdb12c6f03"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0019_karin.json",
+            "sha": "b268fbf63b1d68024e6b76e76746212afd5e7e97"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0020_meurs.json",
+            "sha": "ab991511503f0c42659de241a34210c467028888"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0021_whiten.json",
+            "sha": "ea83937bb243ff68e23fe4afbf330d2121419008"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0022_bounda.json",
+            "sha": "4506ef567fd7d33ea47a4d91c9f1f5d372d4ecbd"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0023_antal.json",
+            "sha": "ef960ca07fd60921a062fdcd799e95252719fc94"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0024_deepfin.json",
+            "sha": "9edd9294420b5f6c6073d6c4245d8b2fcf212bf9"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0025_ardelia.json",
+            "sha": "51675b39781f0600a83a4f7dce71b2ccfef780a6"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0026_lastrite.json",
+            "sha": "c5d9ef0a849dee4f42e0c0a8cac9764886c0a3da"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0027_tangtang.json",
+            "sha": "8797c5120101ed858f2c8daf7fe51f95921c6213"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0028_wulfa.json",
+            "sha": "b9506d74efdf468ecc28423f2abe940526c833bb"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0029_pograni.json",
+            "sha": "f8d6a7fd0422fcfd265cd7b01f1855dfcab2a574"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0030_zhuangfy.json",
+            "sha": "e73b82d18f2466ad572461e7668153a85026207e"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0031_mifu.json",
+            "sha": "6e253195d44b5e5a339d68204e20c3e254325e1b"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0032_lizhiyan.json",
+            "sha": "e940ff73087b330e900c811c51c8b8d8fc2c75cc"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0033_camille.json",
+            "sha": "8923e3512573f28e01624f5bdbe074df53c21b06"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0034_typhoea.json",
+            "sha": "bbd8a328342de118f98bb1718bbb288d1cc62221"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0035_liino.json",
+            "sha": "c0c9052ea54beea2667c78e810f4472d75c53f51"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0038_purrche.json",
+            "sha": "21e34583407c03ed7c8100ec787a5fb8496bd14d"
+          },
+          {
+            "path": "tools/CustomModel/catalog/coverage.json",
+            "sha": "3ef67eb42f0efaef5b5feec7553015557c88a449"
+          },
+          {
+            "path": "tools/CustomModel/catalog/endminf-pc.json",
+            "sha": "04a0f6250248629735cb99c114d07510f517b2cf"
+          },
+          {
+            "path": "tools/CustomModel/catalog/pelica-pc.json",
+            "sha": "91a140ca17a8be660526c435b31ca9789dd07797"
+          },
+          {
+            "path": "tools/CustomModel/catalog/source-identities.json",
+            "sha": "7cec7d25231d58f8a7b27e3268955abbc9313af3"
+          }
+        ]
+      },
+      {
+        "commit": "d514f2f374fc4ebfcfa2b85c62d8b2f8ce7b6417",
+        "date": "2026-10-06T15:03:41Z",
+        "files": [
+          {
+            "path": "tools/CustomModel/catalog/chr_0002_endminm.json",
+            "sha": "58157b6f69b65d83be1198278454b26658ca53a2"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0005_chen.json",
+            "sha": "a82848177844e459a987184c486c0c0ee2be6c84"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0006_wolfgd.json",
+            "sha": "2d8afc603a307a9884e0f64da176d5ede08ea780"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0007_ikut.json",
+            "sha": "7f7ecb384fca16caaa6d9cb0fcdb89dc01aaa521"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0009_azrila.json",
+            "sha": "735c4e3be683dbab75dd092ad045d790a7047ba4"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0011_seraph.json",
+            "sha": "e52f46bac70f10ca9cdeaa5bdda2c728da25d604"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0012_avywen.json",
+            "sha": "766e89bcb094b039a05ec819fffd6e366004ba13"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0013_aglina.json",
+            "sha": "8242a87c777381f7560c1b49975b468677c16ba3"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0014_aurora.json",
+            "sha": "f7879e5f8e17b937e49f661270e14e81a2670e20"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0015_lifeng.json",
+            "sha": "9bcabaee3ee0bb1009ef2d7071ab59fb9ba18432"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0016_laevat.json",
+            "sha": "da282d868024eca93b337fc629f7a8fba345e5de"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0017_yvonne.json",
+            "sha": "27f66a545cf1cdd1530ab5934a3969511bb9bf8a"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0018_dapan.json",
+            "sha": "e6edb609ee5324cf3ae483611a32d2fdb12c6f03"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0019_karin.json",
+            "sha": "b268fbf63b1d68024e6b76e76746212afd5e7e97"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0020_meurs.json",
+            "sha": "ab991511503f0c42659de241a34210c467028888"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0021_whiten.json",
+            "sha": "ea83937bb243ff68e23fe4afbf330d2121419008"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0022_bounda.json",
+            "sha": "4506ef567fd7d33ea47a4d91c9f1f5d372d4ecbd"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0023_antal.json",
+            "sha": "ef960ca07fd60921a062fdcd799e95252719fc94"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0024_deepfin.json",
+            "sha": "9edd9294420b5f6c6073d6c4245d8b2fcf212bf9"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0025_ardelia.json",
+            "sha": "51675b39781f0600a83a4f7dce71b2ccfef780a6"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0026_lastrite.json",
+            "sha": "c5d9ef0a849dee4f42e0c0a8cac9764886c0a3da"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0027_tangtang.json",
+            "sha": "8797c5120101ed858f2c8daf7fe51f95921c6213"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0028_wulfa.json",
+            "sha": "b9506d74efdf468ecc28423f2abe940526c833bb"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0029_pograni.json",
+            "sha": "f8d6a7fd0422fcfd265cd7b01f1855dfcab2a574"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0030_zhuangfy.json",
+            "sha": "e73b82d18f2466ad572461e7668153a85026207e"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0031_mifu.json",
+            "sha": "6e253195d44b5e5a339d68204e20c3e254325e1b"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0032_lizhiyan.json",
+            "sha": "e940ff73087b330e900c811c51c8b8d8fc2c75cc"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0033_camille.json",
+            "sha": "8923e3512573f28e01624f5bdbe074df53c21b06"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0034_typhoea.json",
+            "sha": "bbd8a328342de118f98bb1718bbb288d1cc62221"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0035_liino.json",
+            "sha": "c0c9052ea54beea2667c78e810f4472d75c53f51"
+          },
+          {
+            "path": "tools/CustomModel/catalog/chr_0038_purrche.json",
+            "sha": "21e34583407c03ed7c8100ec787a5fb8496bd14d"
+          },
+          {
+            "path": "tools/CustomModel/catalog/coverage.json",
+            "sha": "3ef67eb42f0efaef5b5feec7553015557c88a449"
+          },
+          {
+            "path": "tools/CustomModel/catalog/endminf-pc.json",
+            "sha": "04a0f6250248629735cb99c114d07510f517b2cf"
+          },
+          {
+            "path": "tools/CustomModel/catalog/pelica-pc.json",
+            "sha": "91a140ca17a8be660526c435b31ca9789dd07797"
+          },
+          {
+            "path": "tools/CustomModel/catalog/source-identities.json",
+            "sha": "7cec7d25231d58f8a7b27e3268955abbc9313af3"
+          }
+        ]
+      }
+    ]
+  },
+  "fixer": {
+    "repo": "swaggerosts/EndField_Mod_Fixer",
+    "path": "Endfield_mod_fixer.py",
+    "head": "f1a411ae49ec6dd5903a7f1ef226e263dbdcc298",
+    "headDate": "2026-06-18T18:05:19Z",
+    "snapshots": [
+      {
+        "commit": "9d0c1bec6f6bcd1970f1aaf1343c186e9c872ca5",
+        "date": "2026-06-12T11:36:50Z",
+        "files": [
+          {
+            "path": "Endfield_mod_fixer.py",
+            "sha": "199c360d3bc201fbb7b1f1857dd818b59ad9408e"
+          }
+        ]
+      },
+      {
+        "commit": "0a14b818cbec3a6726c30f3345b63ac8a6623631",
+        "date": "2026-06-12T15:03:04Z",
+        "files": [
+          {
+            "path": "Endfield_mod_fixer.py",
+            "sha": "17ac036778ca19267c6b83e748f328d30223e187"
+          }
+        ]
+      },
+      {
+        "commit": "f1a411ae49ec6dd5903a7f1ef226e263dbdcc298",
+        "date": "2026-06-18T18:05:19Z",
+        "files": [
+          {
+            "path": "Endfield_mod_fixer.py",
+            "sha": "775d30686d73c2da27e7d3497f478e908c0e9225"
+          }
+        ]
+      }
+    ]
+  }
+}

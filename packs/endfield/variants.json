@@ -1,0 +1,800 @@
+[
+  {
+    "internalName": "Akekuri",
+    "displayName": "Akekuri",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Akekuri",
+    "aliases": [
+      "秋栗",
+      "Akekuri",
+      "アケクリ",
+      "아케쿠리",
+      "Акэкури",
+      "อา​เค​คู​ริ",
+      "chr_0019_karin"
+    ],
+    "attributes": {
+      "element": "Fire",
+      "profession": "VANGUARD",
+      "weaponClass": "Sword",
+      "rarity": 4
+    },
+    "hashesPending": false,
+    "image": "images/Akekuri.webp"
+  },
+  {
+    "internalName": "Alesh",
+    "displayName": "Alesh",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Alesh",
+    "aliases": [
+      "阿列什",
+      "Alesh",
+      "アレッシュ",
+      "알레쉬",
+      "Алеш",
+      "อา​เลช",
+      "chr_0024_deepfin"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "VANGUARD",
+      "weaponClass": "Sword",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Alesh.webp"
+  },
+  {
+    "internalName": "Antal",
+    "displayName": "Antal",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Antal",
+    "aliases": [
+      "安塔爾",
+      "安塔尔",
+      "Antal",
+      "アンタル",
+      "안탈",
+      "Антал",
+      "แอน​ทาล",
+      "chr_0023_antal"
+    ],
+    "attributes": {
+      "element": "Pulse",
+      "profession": "SUPPORTER",
+      "weaponClass": "Wand",
+      "rarity": 4
+    },
+    "hashesPending": false,
+    "image": "images/Antal.webp"
+  },
+  {
+    "internalName": "Arcane",
+    "displayName": "Arcane",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Arcane",
+    "aliases": [
+      "訣",
+      "诀",
+      "Arcane",
+      "オクギ",
+      "결",
+      "Премудрость",
+      "Arkan",
+      "ปริศนา",
+      "Arcana",
+      "chr_0032_lizhiyan"
+    ],
+    "attributes": {
+      "element": "Natural",
+      "profession": "CASTER",
+      "weaponClass": "Wand",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Arcane.webp"
+  },
+  {
+    "internalName": "Arclight",
+    "displayName": "Arclight",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Arclight",
+    "aliases": [
+      "弧光",
+      "Arclight",
+      "アークライト",
+      "아크라이트",
+      "Арклайт",
+      "อาร์ค​ไลท์",
+      "chr_0007_ikut"
+    ],
+    "attributes": {
+      "element": "Pulse",
+      "profession": "VANGUARD",
+      "weaponClass": "Sword",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Arclight.webp"
+  },
+  {
+    "internalName": "Ardelia",
+    "displayName": "Ardelia",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Ardelia",
+    "aliases": [
+      "艾爾黛拉",
+      "艾尔黛拉",
+      "Ardelia",
+      "アルデリア",
+      "아델리아",
+      "Арделия",
+      "อาร์​เด​เลีย",
+      "chr_0025_ardelia"
+    ],
+    "attributes": {
+      "element": "Natural",
+      "profession": "SUPPORTER",
+      "weaponClass": "Wand",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Ardelia.webp"
+  },
+  {
+    "internalName": "Avywenna",
+    "displayName": "Avywenna",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Avywenna",
+    "aliases": [
+      "艾維文娜",
+      "艾维文娜",
+      "Avywenna",
+      "アイビーエナ",
+      "아비웨나",
+      "Авивенна",
+      "เอ​วิ​เวน​นา",
+      "chr_0012_avywen"
+    ],
+    "attributes": {
+      "element": "Pulse",
+      "profession": "ASSAULT",
+      "weaponClass": "Lance",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Avywenna.webp"
+  },
+  {
+    "internalName": "Camille",
+    "displayName": "Camille",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Camille",
+    "aliases": [
+      "卡繆",
+      "卡缪",
+      "Camille",
+      "カミーユ",
+      "카뮤",
+      "Камиль",
+      "คา​มิลล์",
+      "chr_0033_camille"
+    ],
+    "attributes": {
+      "element": "Fire",
+      "profession": "VANGUARD",
+      "weaponClass": "Lance",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Camille.webp"
+  },
+  {
+    "internalName": "Catcher",
+    "displayName": "Catcher",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Catcher",
+    "aliases": [
+      "卡契爾",
+      "卡契尔",
+      "Catcher",
+      "キャッチャー",
+      "카치르",
+      "Кэтчер",
+      "แคท​เชอร์",
+      "chr_0020_meurs"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "DEFENDER",
+      "weaponClass": "Claymores",
+      "rarity": 4
+    },
+    "hashesPending": false,
+    "image": "images/Catcher.webp"
+  },
+  {
+    "internalName": "ChenQianyu",
+    "displayName": "Chen Qianyu",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "ChenQianyu",
+    "aliases": [
+      "陳千語",
+      "陈千语",
+      "Chen Qianyu",
+      "チェン・センユー",
+      "진천우",
+      "Чэнь Цяньюй",
+      "Chen Qianyu",
+      "เฉิน​ เชียน​ยู",
+      "chr_0005_chen"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "GUARD",
+      "weaponClass": "Sword",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/ChenQianyu.webp"
+  },
+  {
+    "internalName": "DaPan",
+    "displayName": "Da Pan",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "DaPan",
+    "aliases": [
+      "大潘",
+      "Da Pan",
+      "Da pan",
+      "ダパン",
+      "판",
+      "Да Пан",
+      "Da Pan",
+      "ต้า​ปัน",
+      "chr_0018_dapan"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "ASSAULT",
+      "weaponClass": "Claymores",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/DaPan.webp"
+  },
+  {
+    "internalName": "Ember",
+    "displayName": "Ember",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Ember",
+    "aliases": [
+      "餘燼",
+      "余烬",
+      "Ember",
+      "エンバー",
+      "엠버",
+      "Эмбер",
+      "เอ็ม​เบอร์",
+      "chr_0009_azrila"
+    ],
+    "attributes": {
+      "element": "Fire",
+      "profession": "DEFENDER",
+      "weaponClass": "Claymores",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Ember.webp"
+  },
+  {
+    "internalName": "EndministratorFemale",
+    "displayName": "Endministrator (Female)",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "EndministratorFemale",
+    "aliases": [
+      "管理員",
+      "管理员",
+      "Endministrator",
+      "管理人",
+      "관리자",
+      "Эндминистратор",
+      "Endministrator (Female)",
+      "chr_0003_endminf"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "GUARD",
+      "weaponClass": "Sword",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/EndministratorFemale.webp"
+  },
+  {
+    "internalName": "EndministratorMale",
+    "displayName": "Endministrator (Male)",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "EndministratorMale",
+    "aliases": [
+      "管理員",
+      "管理员",
+      "Endministrator",
+      "管理人",
+      "관리자",
+      "Эндминистратор",
+      "Endministrator (Male)",
+      "chr_0002_endminm"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "GUARD",
+      "weaponClass": "Sword",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/EndministratorMale.webp"
+  },
+  {
+    "internalName": "Estella",
+    "displayName": "Estella",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Estella",
+    "aliases": [
+      "埃特拉",
+      "Estella",
+      "エステーラ",
+      "에스텔라",
+      "Эстелла",
+      "เอส​เต​ญ่า",
+      "chr_0021_whiten"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "GUARD",
+      "weaponClass": "Lance",
+      "rarity": 4
+    },
+    "hashesPending": false,
+    "image": "images/Estella.webp"
+  },
+  {
+    "internalName": "Fluorite",
+    "displayName": "Fluorite",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Fluorite",
+    "aliases": [
+      "螢石",
+      "萤石",
+      "Fluorite",
+      "フローライト",
+      "플루라이트",
+      "Флюорит",
+      "ฟลู​โอ​ไรต์",
+      "chr_0022_bounda"
+    ],
+    "attributes": {
+      "element": "Natural",
+      "profession": "CASTER",
+      "weaponClass": "Pistol",
+      "rarity": 4
+    },
+    "hashesPending": false,
+    "image": "images/Fluorite.webp"
+  },
+  {
+    "internalName": "Gilberta",
+    "displayName": "Gilberta",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Gilberta",
+    "aliases": [
+      "潔爾佩塔",
+      "洁尔佩塔",
+      "Gilberta",
+      "ギルベルタ",
+      "질베르타",
+      "Гилберта",
+      "กิล​เบอร์​ตา",
+      "chr_0013_aglina"
+    ],
+    "attributes": {
+      "element": "Natural",
+      "profession": "SUPPORTER",
+      "weaponClass": "Wand",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Gilberta.webp"
+  },
+  {
+    "internalName": "Laevatain",
+    "displayName": "Laevatain",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Laevatain",
+    "aliases": [
+      "萊萬汀",
+      "莱万汀",
+      "Laevatain",
+      "レーヴァテイン",
+      "레바테인",
+      "Лэватейн",
+      "ลาวา​เทน",
+      "chr_0016_laevat"
+    ],
+    "attributes": {
+      "element": "Fire",
+      "profession": "ASSAULT",
+      "weaponClass": "Sword",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Laevatain.webp"
+  },
+  {
+    "internalName": "LastRite",
+    "displayName": "Last Rite",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "LastRite",
+    "aliases": [
+      "別禮",
+      "别礼",
+      "Last Rite",
+      "ラストライト",
+      "라스트 라이트",
+      "Панихида",
+      "ลาส​ท์​ไรท์",
+      "chr_0026_lastrite"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "ASSAULT",
+      "weaponClass": "Claymores",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/LastRite.webp"
+  },
+  {
+    "internalName": "Lifeng",
+    "displayName": "Lifeng",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lifeng",
+    "aliases": [
+      "黎風",
+      "黎风",
+      "Lifeng",
+      "リーフォン",
+      "여풍",
+      "Лифэн",
+      "หลี​เ​ฟิง",
+      "chr_0015_lifeng"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "GUARD",
+      "weaponClass": "Lance",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Lifeng.webp"
+  },
+  {
+    "internalName": "Liino",
+    "displayName": "Liino",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Liino",
+    "aliases": [
+      "梨諾",
+      "梨诺",
+      "Liino",
+      "リーノ",
+      "리노",
+      "Лиино",
+      "หลี​นั่​ว",
+      "chr_0035_liino"
+    ],
+    "attributes": {
+      "element": "Pulse",
+      "profession": "SUPPORTER",
+      "weaponClass": "Lance",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Liino.webp"
+  },
+  {
+    "internalName": "MiFu",
+    "displayName": "Mi Fu",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "MiFu",
+    "aliases": [
+      "弭弗",
+      "Mi Fu",
+      "ミ・フ",
+      "미브",
+      "Ми Фу",
+      "Mi Fu",
+      "หมี่​ฟู่",
+      "chr_0031_mifu"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "GUARD",
+      "weaponClass": "Claymores",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/MiFu.webp"
+  },
+  {
+    "internalName": "Perlica",
+    "displayName": "Perlica",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Perlica",
+    "aliases": [
+      "佩麗卡",
+      "佩丽卡",
+      "Perlica",
+      "ペリカ",
+      "펠리카",
+      "Перлика",
+      "เพอ​ริ​กา",
+      "chr_0004_pelica"
+    ],
+    "attributes": {
+      "element": "Pulse",
+      "profession": "CASTER",
+      "weaponClass": "Wand",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Perlica.webp"
+  },
+  {
+    "internalName": "Pogranichnik",
+    "displayName": "Pogranichnik",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Pogranichnik",
+    "aliases": [
+      "駿衛",
+      "骏卫",
+      "Pogranichnik",
+      "ポグラニチニク",
+      "포그라니치니크",
+      "Пограничник",
+      "chr_0029_pograni"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "VANGUARD",
+      "weaponClass": "Sword",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Pogranichnik.webp"
+  },
+  {
+    "internalName": "Rossi",
+    "displayName": "Rossi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Rossi",
+    "aliases": [
+      "洛西",
+      "洛茜",
+      "Rossi",
+      "ロッシ",
+      "로시",
+      "Росси",
+      "รอส​ซี",
+      "chr_0028_wulfa"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "GUARD",
+      "weaponClass": "Sword",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Rossi.webp"
+  },
+  {
+    "internalName": "Snowshine",
+    "displayName": "Snowshine",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Snowshine",
+    "aliases": [
+      "晝雪",
+      "昼雪",
+      "Snowshine",
+      "スノーシャイン",
+      "스노우샤인",
+      "Светоснежка",
+      "ส​โน​ว์​ไชน์",
+      "chr_0014_aurora"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "DEFENDER",
+      "weaponClass": "Claymores",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Snowshine.webp"
+  },
+  {
+    "internalName": "Tangtang",
+    "displayName": "Tangtang",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Tangtang",
+    "aliases": [
+      "湯湯",
+      "汤汤",
+      "Tangtang",
+      "タンタン",
+      "탕탕",
+      "Тантан",
+      "ถัง​ถัง",
+      "chr_0027_tangtang"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "CASTER",
+      "weaponClass": "Pistol",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Tangtang.webp"
+  },
+  {
+    "internalName": "Typhoeus",
+    "displayName": "Typhoeus",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Typhoeus",
+    "aliases": [
+      "提弗洛斯",
+      "Typhoeus",
+      "ティフォロス",
+      "티프로스",
+      "Тифея",
+      "ไท​ฟี​อุส",
+      "chr_0034_typhoea"
+    ],
+    "attributes": {
+      "element": "Natural",
+      "profession": "ASSAULT",
+      "weaponClass": "Wand",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Typhoeus.webp"
+  },
+  {
+    "internalName": "Wulfgard",
+    "displayName": "Wulfgard",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Wulfgard",
+    "aliases": [
+      "狼衛",
+      "狼卫",
+      "Wulfgard",
+      "ウルフガード",
+      "울프가드",
+      "Вулфгард",
+      "วู​ล์​ฟ​การ์ด",
+      "chr_0006_wolfgd"
+    ],
+    "attributes": {
+      "element": "Fire",
+      "profession": "CASTER",
+      "weaponClass": "Pistol",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Wulfgard.webp"
+  },
+  {
+    "internalName": "Xaihi",
+    "displayName": "Xaihi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Xaihi",
+    "aliases": [
+      "賽希",
+      "赛希",
+      "Xaihi",
+      "ザイヒ",
+      "자이히",
+      "Сайхи",
+      "ไซ​ฮี",
+      "chr_0011_seraph"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "SUPPORTER",
+      "weaponClass": "Wand",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Xaihi.webp"
+  },
+  {
+    "internalName": "Yvonne",
+    "displayName": "Yvonne",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Yvonne",
+    "aliases": [
+      "伊馮",
+      "伊冯",
+      "Yvonne",
+      "イヴォンヌ",
+      "이본",
+      "Ивонна",
+      "อี​วอน",
+      "chr_0017_yvonne"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "ASSAULT",
+      "weaponClass": "Pistol",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Yvonne.webp"
+  },
+  {
+    "internalName": "ZhuangFangyi",
+    "displayName": "Zhuang Fangyi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "ZhuangFangyi",
+    "aliases": [
+      "莊方宜",
+      "庄方宜",
+      "Zhuang Fangyi",
+      "ゾアン・ファンイ",
+      "장방이",
+      "Чжуан Фанъи",
+      "จวง​ฟาง​อี้",
+      "chr_0030_zhuangfy"
+    ],
+    "attributes": {
+      "element": "Pulse",
+      "profession": "ASSAULT",
+      "weaponClass": "Wand",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/ZhuangFangyi.webp"
+  }
+]
