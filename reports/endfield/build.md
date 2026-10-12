@@ -3,4 +3,4 @@
 32 characters, 32 portraits, 2831 hash associations.
 
 - Catalog ID chr_0038_purrche is not in Enka; retained in history without adding a character
-- Liino: using Enka's round icon while its portrait is unavailable
+- Liino: kept bundled portrait (https://enka.network/ui/ef/charremoteicon/icon_chr_0035_liino.png: HTTP 404)

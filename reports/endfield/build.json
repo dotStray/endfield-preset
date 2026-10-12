@@ -1,5 +1,5 @@
 {
-  "changed": true,
+  "changed": false,
   "packVersion": "2026.10.06",
   "counts": {
     "variants": 32,
@@ -1223,11 +1223,11 @@
   },
   "warnings": [
     "Catalog ID chr_0038_purrche is not in Enka; retained in history without adding a character",
-    "Liino: using Enka's round icon while its portrait is unavailable"
+    "Liino: kept bundled portrait (https://enka.network/ui/ef/charremoteicon/icon_chr_0035_liino.png: HTTP 404)"
   ],
-  "networkRequests": 76,
+  "networkRequests": 8,
   "manualReplacements": [],
-  "imageRequests": 34,
+  "imageRequests": 1,
   "archive": {
     "packVersion": "2026.10.06",
     "packSchemaVersion": 1,
