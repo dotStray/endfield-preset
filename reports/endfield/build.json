@@ -1,5 +1,5 @@
 {
-  "changed": true,
+  "changed": false,
   "packVersion": "2026.10.17",
   "counts": {
     "variants": 34,
@@ -1354,9 +1354,9 @@
   "warnings": [
     "Liino: kept bundled portrait (https://enka.network/ui/ef/charremoteicon/icon_chr_0035_liino.png: HTTP 404)"
   ],
-  "networkRequests": 18,
+  "networkRequests": 7,
   "manualReplacements": [],
-  "imageRequests": 3,
+  "imageRequests": 1,
   "archive": {
     "packVersion": "2026.10.17",
     "packSchemaVersion": 1,

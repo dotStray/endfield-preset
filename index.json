@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T00:00:00Z",
+  "updatedAt": "2026-10-17T00:00:00Z",
   "packs": [
     {
       "gameId": "endfield",
@@ -8,6 +8,15 @@
       "shortName": "EF",
       "importer": "EFMI",
       "versions": [
+        {
+          "packVersion": "2026.10.17",
+          "packSchemaVersion": 1,
+          "minAppVersion": "0.1.0",
+          "url": "https://github.com/dotStray/endfield-preset/releases/download/2026.10.17/endfield-2026.10.17.zip",
+          "sha256": "8c359047cc428e02d5dbb1067b5e796a15e21a9dac55d35a7c7ac1c32b8ced9c",
+          "sizeBytes": 813775,
+          "changelog": "34 characters; current and historical hashes."
+        },
         {
           "packVersion": "2026.10.06",
           "packSchemaVersion": 1,
