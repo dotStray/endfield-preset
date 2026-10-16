@@ -13562,6 +13562,263 @@
       "textureKind": "Unknown"
     },
     {
+      "variant": "Purrchena",
+      "component": "Component3",
+      "kind": "ib",
+      "hash": "164358d5"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component20",
+      "kind": "ib",
+      "hash": "39d0b566"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component19",
+      "kind": "ib",
+      "hash": "4a67ebb4"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component0",
+      "kind": "ib",
+      "hash": "678d01dc"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component21",
+      "kind": "ib",
+      "hash": "ba52d8fd"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component18",
+      "kind": "ib",
+      "hash": "bbed6140"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component2",
+      "kind": "ib",
+      "hash": "e308d4b4"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component14",
+      "kind": "ib",
+      "hash": "e3428d8d"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "Component1",
+      "kind": "ib",
+      "hash": "f67d1347"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_karin_fur_01_M",
+      "kind": "texture",
+      "hash": "016ac633",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_dapan_body_02_P",
+      "kind": "texture",
+      "hash": "041aaa69",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_fur_04_N",
+      "kind": "texture",
+      "hash": "060c3871",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_fx_lightning_302_02_M",
+      "kind": "texture",
+      "hash": "13bf7994",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_dapan_body_02_M",
+      "kind": "texture",
+      "hash": "1af68a90",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_common_matcap_09_D",
+      "kind": "texture",
+      "hash": "2dcaa4a8",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_ardelia_fur_02_D",
+      "kind": "texture",
+      "hash": "32aa17b7",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_common_cloth_05_RD",
+      "kind": "texture",
+      "hash": "39d06c0f",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_eye_01_D",
+      "kind": "texture",
+      "hash": "39d6e046",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_fur_01_ST",
+      "kind": "texture",
+      "hash": "3eca7d95",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_cloth_01_N",
+      "kind": "texture",
+      "hash": "446ac58b",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_fx_actor_ardelia_fur_02_D_M",
+      "kind": "texture",
+      "hash": "53622bad",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_iris_01_RS",
+      "kind": "texture",
+      "hash": "5575f3cc",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_common_cloth_05_RS",
+      "kind": "texture",
+      "hash": "68bf6217",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_dapan_body_01_P",
+      "kind": "texture",
+      "hash": "704dbf29",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_body_01_D",
+      "kind": "texture",
+      "hash": "72b09e19",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_cloth_01_D",
+      "kind": "texture",
+      "hash": "8aaa3262",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_dapan_body_02_N",
+      "kind": "texture",
+      "hash": "98ae5622",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_body_02_D",
+      "kind": "texture",
+      "hash": "a7d759a2",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_body_01_N",
+      "kind": "texture",
+      "hash": "b6fb09bd",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_chen_cloth_01_ST",
+      "kind": "texture",
+      "hash": "b93656c7",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_common_cloth_02_RS",
+      "kind": "texture",
+      "hash": "c30d3c7b",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_common_cloth_03_RD",
+      "kind": "texture",
+      "hash": "c6a7235b",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_chen_cloth_01_E",
+      "kind": "texture",
+      "hash": "d4b51f22",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_panda_mp02_2_RD",
+      "kind": "texture",
+      "hash": "dafc7bff",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_common_matcap_01_D",
+      "kind": "texture",
+      "hash": "e11e8b41",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_cloth_01_P",
+      "kind": "texture",
+      "hash": "e453afe1",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_dapan_cloth_01_P",
+      "kind": "texture",
+      "hash": "f23ed868",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Purrchena",
+      "component": "T_actor_purrchena_cloth_01_ST",
+      "kind": "texture",
+      "hash": "fbac4cf0",
+      "textureKind": "Unknown"
+    },
+    {
       "variant": "Rossi",
       "component": "Component2",
       "kind": "ib",
@@ -13953,6 +14210,496 @@
       "textureKind": "Unknown"
     },
     {
+      "variant": "Si",
+      "component": "Component13",
+      "kind": "ib",
+      "hash": "56510c18"
+    },
+    {
+      "variant": "Si",
+      "component": "Component0",
+      "kind": "ib",
+      "hash": "59bf046a"
+    },
+    {
+      "variant": "Si",
+      "component": "Component2",
+      "kind": "ib",
+      "hash": "6dc25c11"
+    },
+    {
+      "variant": "Si",
+      "component": "Component3",
+      "kind": "ib",
+      "hash": "77ea19b6"
+    },
+    {
+      "variant": "Si",
+      "component": "Component14",
+      "kind": "ib",
+      "hash": "953eee43"
+    },
+    {
+      "variant": "Si",
+      "component": "Component5",
+      "kind": "ib",
+      "hash": "a6b80ffb"
+    },
+    {
+      "variant": "Si",
+      "component": "Component9",
+      "kind": "ib",
+      "hash": "a80c3759"
+    },
+    {
+      "variant": "Si",
+      "component": "Component8",
+      "kind": "ib",
+      "hash": "a9411ba7"
+    },
+    {
+      "variant": "Si",
+      "component": "Component7",
+      "kind": "ib",
+      "hash": "b4ea2057"
+    },
+    {
+      "variant": "Si",
+      "component": "Component4",
+      "kind": "ib",
+      "hash": "c345bccf"
+    },
+    {
+      "variant": "Si",
+      "component": "Component6",
+      "kind": "ib",
+      "hash": "d7404d7e"
+    },
+    {
+      "variant": "Si",
+      "component": "Component10",
+      "kind": "ib",
+      "hash": "d9b71faf"
+    },
+    {
+      "variant": "Si",
+      "component": "Component11",
+      "kind": "ib",
+      "hash": "fae3e4f0"
+    },
+    {
+      "variant": "Si",
+      "component": "Component12",
+      "kind": "ib",
+      "hash": "ff3790c7"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_hairline_03_M",
+      "kind": "texture",
+      "hash": "151c9982",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_body_01_RD",
+      "kind": "texture",
+      "hash": "172348f4",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_face_01_D",
+      "kind": "texture",
+      "hash": "1a6ba766",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_hair_01_HN",
+      "kind": "texture",
+      "hash": "1cd10f39",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_body_01_N",
+      "kind": "texture",
+      "hash": "2483060d",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_face_01_hl_M",
+      "kind": "texture",
+      "hash": "290f53c8",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_normal_zr006_N",
+      "kind": "texture",
+      "hash": "2c0c33c8",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_hair_01_ST",
+      "kind": "texture",
+      "hash": "2effc3f5",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_01_ST",
+      "kind": "texture",
+      "hash": "3a57f16e",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_trail_fj_09_3_v1d4_M",
+      "kind": "texture",
+      "hash": "3bc8431c",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_02_D",
+      "kind": "texture",
+      "hash": "3e631726",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_femaleskincolor01_lut_D",
+      "kind": "texture",
+      "hash": "3ea83bf4",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_mask_616_c_M",
+      "kind": "texture",
+      "hash": "3f04eda7",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_mask_03_02_M",
+      "kind": "texture",
+      "hash": "3f85c1bf",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_01_E",
+      "kind": "texture",
+      "hash": "4803bb3c",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_mask_161_M",
+      "kind": "texture",
+      "hash": "4c2093e6",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_hair_01_D",
+      "kind": "texture",
+      "hash": "5244e135",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_hair_03_RD",
+      "kind": "texture",
+      "hash": "62aeb468",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_eyeshadow_02_M",
+      "kind": "texture",
+      "hash": "6899d1a4",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_femaleskincolor03_lut_D",
+      "kind": "texture",
+      "hash": "6b173443",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_03_M",
+      "kind": "texture",
+      "hash": "6d419a6f",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_01_D",
+      "kind": "texture",
+      "hash": "7114cec0",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_04_N",
+      "kind": "texture",
+      "hash": "77982056",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_normal_501_N",
+      "kind": "texture",
+      "hash": "79ac2f8c",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_trail_fj_09_1_v1d4_M",
+      "kind": "texture",
+      "hash": "80f55e0c",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_trail_cyt_003",
+      "kind": "texture",
+      "hash": "81c821bc",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_02_E",
+      "kind": "texture",
+      "hash": "82908c0b",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_02_P",
+      "kind": "texture",
+      "hash": "86cd92fc",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_matcap_08_D",
+      "kind": "texture",
+      "hash": "92caa993",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_cloth_04_RS",
+      "kind": "texture",
+      "hash": "9529b478",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_female_emotion_atlas_01_D",
+      "kind": "texture",
+      "hash": "9750205d",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_body_01_D",
+      "kind": "texture",
+      "hash": "9e07785e",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_hair_01_RS",
+      "kind": "texture",
+      "hash": "a367ca04",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_trail_fj_06_M",
+      "kind": "texture",
+      "hash": "a49bdfa4",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_mask_zr027_c_M",
+      "kind": "texture",
+      "hash": "b0c5b539",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "common_deco_white",
+      "kind": "texture",
+      "hash": "b1872d14",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_04_P",
+      "kind": "texture",
+      "hash": "b9220c4a",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_trail_fj_09_1_v1d4_02_M",
+      "kind": "texture",
+      "hash": "b9b6476d",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_cloth_02_RS",
+      "kind": "texture",
+      "hash": "c30d3c7b",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_cloth_04_RD",
+      "kind": "texture",
+      "hash": "c383b676",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_01_N",
+      "kind": "texture",
+      "hash": "d11b4e0b",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_02_N",
+      "kind": "texture",
+      "hash": "d43577bb",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_eyeshadow_01_M",
+      "kind": "texture",
+      "hash": "d5906b6a",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_iris_01_D",
+      "kind": "texture",
+      "hash": "d7810cc2",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_female_face_03_cm_M",
+      "kind": "texture",
+      "hash": "dbf4f80f",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_female_face_03_SDF",
+      "kind": "texture",
+      "hash": "de88be11",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_01_P",
+      "kind": "texture",
+      "hash": "dea730f0",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_face_01_N",
+      "kind": "texture",
+      "hash": "e4dece78",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_cloth_04_D",
+      "kind": "texture",
+      "hash": "e619c38f",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_lizhiyan_cloth_01_ST",
+      "kind": "texture",
+      "hash": "e7c4b66a",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_trail_zrx_08_M",
+      "kind": "texture",
+      "hash": "ec5f9113",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_object_504_M",
+      "kind": "texture",
+      "hash": "ed8d44fb",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_flow_317_M",
+      "kind": "texture",
+      "hash": "ef9d53d7",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_hairst_01_ST",
+      "kind": "texture",
+      "hash": "f18a7d64",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_hair_01_P",
+      "kind": "texture",
+      "hash": "f34edaad",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_fx_trail_fj_03_M",
+      "kind": "texture",
+      "hash": "f7104c62",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_common_hairshadow_01_M",
+      "kind": "texture",
+      "hash": "fb524ebd",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Si",
+      "component": "T_actor_jsspsi_face_01_ST",
+      "kind": "texture",
+      "hash": "fd54ea84",
+      "textureKind": "Unknown"
+    },
+    {
       "variant": "Snowshine",
       "component": "Component5",
       "kind": "ib",
@@ -14026,6 +14773,12 @@
     },
     {
       "variant": "Snowshine",
+      "component": "Component5",
+      "kind": "ib",
+      "hash": "914887d7"
+    },
+    {
+      "variant": "Snowshine",
       "component": "Component0",
       "kind": "ib",
       "hash": "9b331c41"
@@ -14089,6 +14842,12 @@
       "component": "Component6",
       "kind": "ib",
       "hash": "dc7e76f8"
+    },
+    {
+      "variant": "Snowshine",
+      "component": "Component1",
+      "kind": "ib",
+      "hash": "e21af1da"
     },
     {
       "variant": "Snowshine",
@@ -14344,6 +15103,13 @@
       "component": "T_actor_aurora_face_01_D",
       "kind": "texture",
       "hash": "361172d9",
+      "textureKind": "Unknown"
+    },
+    {
+      "variant": "Snowshine",
+      "component": "T_actor_common_femaleskincolor01_lut_D",
+      "kind": "texture",
+      "hash": "3ea83bf4",
       "textureKind": "Unknown"
     },
     {

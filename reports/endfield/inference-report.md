@@ -28,7 +28,9 @@ The parent shown is the one stored in the pack. Source rows describe the accepte
 | `MiFu` — Mi Fu | — (a character of its own) | Enka roster | explicit |
 | `Perlica` — Perlica | — (a character of its own) | Enka roster | explicit |
 | `Pogranichnik` — Pogranichnik | — (a character of its own) | Enka roster | explicit |
+| `Purrchena` — Purrchena | — (a character of its own) | Enka roster | explicit |
 | `Rossi` — Rossi | — (a character of its own) | Enka roster | explicit |
+| `Si` — Si | — (a character of its own) | Enka roster | explicit |
 | `Snowshine` — Snowshine | — (a character of its own) | Enka roster | explicit |
 | `Tangtang` — Tangtang | — (a character of its own) | Enka roster | explicit |
 | `Typhoeus` — Typhoeus | — (a character of its own) | Enka roster | explicit |

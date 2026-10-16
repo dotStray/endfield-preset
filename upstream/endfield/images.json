@@ -191,6 +191,14 @@
     "file": "images/Pogranichnik.webp",
     "packedSha256": "95576df587073e5a7c58aa7094c63356ae192efa5a0f21a4c29a74e3a0ccb0d3"
   },
+  "Purrchena": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0038_purrche.png",
+    "sha256": "2945c2cdd92f2f2f8a34fc189825b7bfeac52ca7ea9944ccce17a9dbe22a979b",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Purrchena.webp",
+    "packedSha256": "2b0b6c274d231f1f86d9eb735d63e1099301764634168b02b5d795eed9fc4f5e"
+  },
   "Rossi": {
     "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0028_wulfa.png",
     "sha256": "5e3ae3f0b70aa876b87a92dc1472247b54d4dfe6df8c1dd9f4f6ca437fb84c13",
@@ -198,6 +206,14 @@
     "initialSeed": false,
     "file": "images/Rossi.webp",
     "packedSha256": "aff2d3a9d06aefe81e7b39c850f9c1a283e6ea3a71561586193cd823e642839a"
+  },
+  "Si": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0036_jsspsi.png",
+    "sha256": "7de3d9ff0b545488f4b42278c4d449d58191c433aed9ffa13827fac277d21930",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/Si.webp",
+    "packedSha256": "68f60b0f8c0ef42008e9f1a22ef38a375176b61bac131e3a5e6351ee3772d550"
   },
   "Snowshine": {
     "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0014_aurora.png",

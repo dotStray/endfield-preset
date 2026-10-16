@@ -1,18 +1,16 @@
 {
-  "rosterVariants": 32,
-  "currentEntries": 1542,
-  "historicalOnlyEntries": 1289,
-  "totalEntries": 2831,
-  "distinctHashes": 2309,
+  "rosterVariants": 34,
+  "currentEntries": 1652,
+  "historicalOnlyEntries": 1292,
+  "totalEntries": 2944,
+  "distinctHashes": 2386,
   "kinds": {
-    "ib": 816,
+    "ib": 841,
     "position_vb": 832,
-    "texture": 1183
+    "texture": 1271
   },
   "excludedGlobalHashCount": 17,
-  "unmatchedCatalogCharacters": [
-    "chr_0038_purrche"
-  ],
+  "unmatchedCatalogCharacters": [],
   "unmatchedFixerNames": [],
   "catalogIssues": [
     {
@@ -132,6 +130,24 @@
       "excludedComponents": []
     },
     {
+      "character": "chr_0036_jsspsi",
+      "issues": [
+        {
+          "kind": "mesh",
+          "name": "S_actor_jsspsi_brow_01_lod0",
+          "reason": "not a complete single-submesh index region"
+        }
+      ],
+      "excludedComponents": [
+        {
+          "mesh_name": "S_actor_jsspsi_cloth_04_lod0",
+          "reasons": [
+            "world/UI material slots differ"
+          ]
+        }
+      ]
+    },
+    {
       "character": "chr_0038_purrche",
       "issues": [
         {
@@ -198,6 +214,7 @@
         "Perlica",
         "Pogranichnik",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Typhoeus",
@@ -233,6 +250,7 @@
         "Perlica",
         "Pogranichnik",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Typhoeus",
@@ -268,6 +286,7 @@
         "Perlica",
         "Pogranichnik",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Typhoeus",
@@ -302,6 +321,7 @@
         "Perlica",
         "Pogranichnik",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Wulfgard",
@@ -334,6 +354,7 @@
         "MiFu",
         "Perlica",
         "Rossi",
+        "Si",
         "Snowshine",
         "Typhoeus",
         "Wulfgard",
@@ -365,6 +386,7 @@
         "MiFu",
         "Pogranichnik",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Wulfgard",
@@ -394,6 +416,7 @@
         "MiFu",
         "Perlica",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Typhoeus",
@@ -452,6 +475,7 @@
         "MiFu",
         "Perlica",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Typhoeus",
@@ -479,11 +503,37 @@
         "Perlica",
         "Pogranichnik",
         "Rossi",
+        "Si",
         "Snowshine",
         "Tangtang",
         "Wulfgard",
         "Xaihi",
         "Yvonne"
+      ]
+    },
+    {
+      "hash": "fb524ebd",
+      "characters": [
+        "Alesh",
+        "Arcane",
+        "Arclight",
+        "Ardelia",
+        "Camille",
+        "Catcher",
+        "Ember",
+        "Estella",
+        "Gilberta",
+        "Laevatain",
+        "LastRite",
+        "Liino",
+        "MiFu",
+        "Perlica",
+        "Rossi",
+        "Si",
+        "Tangtang",
+        "Typhoeus",
+        "Wulfgard",
+        "ZhuangFangyi"
       ]
     },
     {
@@ -511,27 +561,25 @@
       ]
     },
     {
-      "hash": "fb524ebd",
+      "hash": "c30d3c7b",
       "characters": [
         "Alesh",
+        "Antal",
         "Arcane",
-        "Arclight",
-        "Ardelia",
         "Camille",
         "Catcher",
+        "DaPan",
         "Ember",
         "Estella",
-        "Gilberta",
-        "Laevatain",
-        "LastRite",
+        "Fluorite",
+        "Lifeng",
         "Liino",
         "MiFu",
-        "Perlica",
-        "Rossi",
+        "Purrchena",
+        "Si",
+        "Snowshine",
         "Tangtang",
-        "Typhoeus",
-        "Wulfgard",
-        "ZhuangFangyi"
+        "Typhoeus"
       ]
     },
     {
@@ -598,26 +646,6 @@
       ]
     },
     {
-      "hash": "c30d3c7b",
-      "characters": [
-        "Alesh",
-        "Antal",
-        "Arcane",
-        "Camille",
-        "Catcher",
-        "DaPan",
-        "Ember",
-        "Estella",
-        "Fluorite",
-        "Lifeng",
-        "Liino",
-        "MiFu",
-        "Snowshine",
-        "Tangtang",
-        "Typhoeus"
-      ]
-    },
-    {
       "hash": "5b42ffc1",
       "characters": [
         "Akekuri",
@@ -646,6 +674,7 @@
         "Liino",
         "MiFu",
         "Pogranichnik",
+        "Purrchena",
         "Tangtang",
         "Typhoeus",
         "Yvonne",
@@ -661,6 +690,7 @@
         "LastRite",
         "MiFu",
         "Pogranichnik",
+        "Purrchena",
         "Tangtang",
         "Typhoeus",
         "Yvonne",
@@ -675,6 +705,7 @@
         "Laevatain",
         "Liino",
         "Perlica",
+        "Purrchena",
         "Rossi",
         "Tangtang",
         "Typhoeus",
@@ -695,6 +726,19 @@
       ]
     },
     {
+      "hash": "92caa993",
+      "characters": [
+        "Arclight",
+        "Catcher",
+        "Estella",
+        "Gilberta",
+        "Liino",
+        "Si",
+        "Snowshine",
+        "Xaihi"
+      ]
+    },
+    {
       "hash": "afd96318",
       "characters": [
         "Camille",
@@ -705,6 +749,19 @@
         "Estella",
         "Fluorite",
         "Xaihi"
+      ]
+    },
+    {
+      "hash": "b1872d14",
+      "characters": [
+        "Arcane",
+        "Ardelia",
+        "LastRite",
+        "Liino",
+        "Perlica",
+        "Si",
+        "Tangtang",
+        "Typhoeus"
       ]
     },
     {
@@ -720,27 +777,15 @@
       ]
     },
     {
-      "hash": "92caa993",
+      "hash": "62aeb468",
       "characters": [
-        "Arclight",
-        "Catcher",
-        "Estella",
-        "Gilberta",
-        "Liino",
-        "Snowshine",
-        "Xaihi"
-      ]
-    },
-    {
-      "hash": "b1872d14",
-      "characters": [
+        "Alesh",
         "Arcane",
-        "Ardelia",
-        "LastRite",
+        "Camille",
+        "Lifeng",
         "Liino",
-        "Perlica",
-        "Tangtang",
-        "Typhoeus"
+        "Si",
+        "Wulfgard"
       ]
     },
     {
@@ -753,17 +798,6 @@
         "Liino",
         "Rossi",
         "Typhoeus"
-      ]
-    },
-    {
-      "hash": "62aeb468",
-      "characters": [
-        "Alesh",
-        "Arcane",
-        "Camille",
-        "Lifeng",
-        "Liino",
-        "Wulfgard"
       ]
     },
     {
@@ -799,12 +833,41 @@
       ]
     },
     {
+      "hash": "dbf4f80f",
+      "characters": [
+        "ChenQianyu",
+        "Liino",
+        "Si",
+        "Snowshine",
+        "Tangtang"
+      ]
+    },
+    {
+      "hash": "de88be11",
+      "characters": [
+        "ChenQianyu",
+        "Liino",
+        "Rossi",
+        "Si",
+        "Tangtang"
+      ]
+    },
+    {
       "hash": "31df53ea",
       "characters": [
         "Akekuri",
         "Perlica",
         "Pogranichnik",
         "Tangtang"
+      ]
+    },
+    {
+      "hash": "39d06c0f",
+      "characters": [
+        "Antal",
+        "Ardelia",
+        "Liino",
+        "Purrchena"
       ]
     },
     {
@@ -826,29 +889,19 @@
       ]
     },
     {
-      "hash": "dbf4f80f",
-      "characters": [
-        "ChenQianyu",
-        "Liino",
-        "Snowshine",
-        "Tangtang"
-      ]
-    },
-    {
-      "hash": "de88be11",
-      "characters": [
-        "ChenQianyu",
-        "Liino",
-        "Rossi",
-        "Tangtang"
-      ]
-    },
-    {
       "hash": "1bea5aca",
       "characters": [
         "Alesh",
         "Catcher",
         "Wulfgard"
+      ]
+    },
+    {
+      "hash": "2dcaa4a8",
+      "characters": [
+        "Avywenna",
+        "LastRite",
+        "Purrchena"
       ]
     },
     {
@@ -860,11 +913,11 @@
       ]
     },
     {
-      "hash": "39d06c0f",
+      "hash": "704dbf29",
       "characters": [
-        "Antal",
         "Ardelia",
-        "Liino"
+        "DaPan",
+        "Purrchena"
       ]
     },
     {
@@ -916,6 +969,20 @@
       ]
     },
     {
+      "hash": "016ac633",
+      "characters": [
+        "Akekuri",
+        "Purrchena"
+      ]
+    },
+    {
+      "hash": "041aaa69",
+      "characters": [
+        "DaPan",
+        "Purrchena"
+      ]
+    },
+    {
       "hash": "0681184e",
       "characters": [
         "Estella",
@@ -941,6 +1008,13 @@
       "characters": [
         "Fluorite",
         "Laevatain"
+      ]
+    },
+    {
+      "hash": "13bf7994",
+      "characters": [
+        "Ardelia",
+        "Purrchena"
       ]
     },
     {
@@ -972,6 +1046,13 @@
       ]
     },
     {
+      "hash": "1af68a90",
+      "characters": [
+        "DaPan",
+        "Purrchena"
+      ]
+    },
+    {
       "hash": "294012ae",
       "characters": [
         "Liino",
@@ -979,17 +1060,17 @@
       ]
     },
     {
-      "hash": "2dcaa4a8",
-      "characters": [
-        "Avywenna",
-        "LastRite"
-      ]
-    },
-    {
       "hash": "2f3d0ce5",
       "characters": [
         "EndministratorFemale",
         "Xaihi"
+      ]
+    },
+    {
+      "hash": "32aa17b7",
+      "characters": [
+        "Ardelia",
+        "Purrchena"
       ]
     },
     {
@@ -1004,6 +1085,13 @@
       "characters": [
         "Catcher",
         "Wulfgard"
+      ]
+    },
+    {
+      "hash": "3ea83bf4",
+      "characters": [
+        "Si",
+        "Snowshine"
       ]
     },
     {
@@ -1035,6 +1123,13 @@
       ]
     },
     {
+      "hash": "53622bad",
+      "characters": [
+        "Ardelia",
+        "Purrchena"
+      ]
+    },
+    {
       "hash": "53a960dd",
       "characters": [
         "EndministratorFemale",
@@ -1046,6 +1141,13 @@
       "characters": [
         "Catcher",
         "EndministratorMale"
+      ]
+    },
+    {
+      "hash": "5575f3cc",
+      "characters": [
+        "Arclight",
+        "Purrchena"
       ]
     },
     {
@@ -1063,17 +1165,17 @@
       ]
     },
     {
-      "hash": "6d436895",
+      "hash": "68bf6217",
       "characters": [
-        "MiFu",
+        "Purrchena",
         "Yvonne"
       ]
     },
     {
-      "hash": "704dbf29",
+      "hash": "6d436895",
       "characters": [
-        "Ardelia",
-        "DaPan"
+        "MiFu",
+        "Yvonne"
       ]
     },
     {
@@ -1095,6 +1197,13 @@
       "characters": [
         "Antal",
         "Xaihi"
+      ]
+    },
+    {
+      "hash": "98ae5622",
+      "characters": [
+        "DaPan",
+        "Purrchena"
       ]
     },
     {
@@ -1168,10 +1277,24 @@
       ]
     },
     {
+      "hash": "dafc7bff",
+      "characters": [
+        "DaPan",
+        "Purrchena"
+      ]
+    },
+    {
       "hash": "e69d7088",
       "characters": [
         "Avywenna",
         "ChenQianyu"
+      ]
+    },
+    {
+      "hash": "e7c4b66a",
+      "characters": [
+        "Arcane",
+        "Si"
       ]
     },
     {
@@ -1186,6 +1309,13 @@
       "characters": [
         "Avywenna",
         "Pogranichnik"
+      ]
+    },
+    {
+      "hash": "f23ed868",
+      "characters": [
+        "DaPan",
+        "Purrchena"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # endfield: hashes from older versions of upstream's files
 
-1542 current, 1289 historical-only and 0 manual-only hash associations in the pack.
+1652 current, 1292 historical-only and 0 manual-only hash associations in the pack.
 
 Current associations appear in the latest catalog. Historical-only associations come from saved catalog observations or the fixer's old and replacement values, outside that current set. Manual-only associations have no automatic match.
 
@@ -32,8 +32,10 @@ Source observations stay in `ledger/endfield.json`; checksum-verified snapshots 
 | `MiFu` — Mi Fu | 51 | 0 | 0 |
 | `Perlica` — Perlica | 49 | 53 | 0 |
 | `Pogranichnik` — Pogranichnik | 52 | 60 | 0 |
+| `Purrchena` — Purrchena | 38 | 0 | 0 |
 | `Rossi` — Rossi | 58 | 0 | 0 |
-| `Snowshine` — Snowshine | 52 | 43 | 0 |
+| `Si` — Si | 72 | 0 | 0 |
+| `Snowshine` — Snowshine | 52 | 46 | 0 |
 | `Tangtang` — Tangtang | 60 | 32 | 0 |
 | `Typhoeus` — Typhoeus | 62 | 0 | 0 |
 | `Wulfgard` — Wulfgard | 60 | 75 | 0 |

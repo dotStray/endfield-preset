@@ -599,6 +599,30 @@
     "image": "images/Pogranichnik.webp"
   },
   {
+    "internalName": "Purrchena",
+    "displayName": "Purrchena",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Purrchena",
+    "aliases": [
+      "噗切娜",
+      "Purrchena",
+      "プチエナ",
+      "푸치나",
+      "Муррчена",
+      "เพอร์​ซี​น่า",
+      "chr_0038_purrche"
+    ],
+    "attributes": {
+      "element": "Physical",
+      "profession": "DEFENDER",
+      "weaponClass": "Sword",
+      "rarity": 5
+    },
+    "hashesPending": false,
+    "image": "images/Purrchena.webp"
+  },
+  {
     "internalName": "Rossi",
     "displayName": "Rossi",
     "baseCharacterId": null,
@@ -622,6 +646,30 @@
     },
     "hashesPending": false,
     "image": "images/Rossi.webp"
+  },
+  {
+    "internalName": "Si",
+    "displayName": "Si",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Si",
+    "aliases": [
+      "祀",
+      "Si",
+      "スー",
+      "사",
+      "Си",
+      "ซือ",
+      "chr_0036_jsspsi"
+    ],
+    "attributes": {
+      "element": "Cryst",
+      "profession": "SUPPORTER",
+      "weaponClass": "Claymores",
+      "rarity": 6
+    },
+    "hashesPending": false,
+    "image": "images/Si.webp"
   },
   {
     "internalName": "Snowshine",

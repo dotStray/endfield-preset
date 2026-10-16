@@ -1,15 +1,15 @@
 {
   "packSchemaVersion": 1,
   "gameId": "endfield",
-  "packVersion": "2026.10.06",
-  "generatedAt": "2026-10-06T00:00:00Z",
+  "packVersion": "2026.10.17",
+  "generatedAt": "2026-10-17T00:00:00Z",
   "builder": "endfield-packbuilder/0.1.0",
   "authoredBy": "official",
   "minAppVersion": "0.1.0",
   "counts": {
-    "variants": 32,
+    "variants": 34,
     "skins": 0,
-    "images": 32
+    "images": 34
   },
   "sources": [
     {
@@ -27,7 +27,7 @@
     {
       "kind": "hashes",
       "url": "https://github.com/Dr-hydra/Better-Endfield",
-      "commit": "d514f2f374fc4ebfcfa2b85c62d8b2f8ce7b6417",
+      "commit": "9116c7ecf4fe4b1284999ca442c08316049bb886",
       "license": "AGPL-3.0"
     },
     {
