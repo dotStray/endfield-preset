@@ -1354,7 +1354,7 @@
   "warnings": [
     "Liino: kept bundled portrait (https://enka.network/ui/ef/charremoteicon/icon_chr_0035_liino.png: HTTP 404)"
   ],
-  "networkRequests": 7,
+  "networkRequests": 8,
   "manualReplacements": [],
   "imageRequests": 1,
   "archive": {
