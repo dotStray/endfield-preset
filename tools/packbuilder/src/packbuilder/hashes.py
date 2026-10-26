@@ -128,6 +128,10 @@ def collect(folder, sources: dict, variants: list[dict], overrides: Overrides, p
                 data = json.loads(blob(folder, file["sha"]).decode("utf-8-sig"))
             except (ValueError, UnicodeError) as error:
                 raise BuildError(f"Invalid catalog JSON: {file['path']}") from error
+            if not isinstance(data, dict):
+                if file["path"].startswith(catalog["path"] + "/identities/"):
+                    continue  # Supplemental native-identity tables are not character catalogs.
+                raise BuildError(f"Invalid character catalog JSON: {file['path']}")
             if data.get("kind") != "bem-character-catalog":
                 continue
             if data.get("identity_policy") != "efmi-dx11-region-texture0-fullchain-v1":

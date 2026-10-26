@@ -150,6 +150,20 @@ class HashTests(unittest.TestCase):
         with self.assertRaises(BuildError):
             self.collect()
 
+    def test_native_identity_metadata_list_does_not_change_character_hashes(self):
+        self.sources["catalog"]["path"] = "catalog"
+        expected = self.collect()
+        extra = snapshot(self.folder, "test/catalog", "catalog/identities/native-vb-region-identities.json",
+                         json.dumps([{"character_id": SOURCE_ID, "source_hash": "deadbeef"}]).encode())
+        self.sources["catalog"]["snapshots"][0]["files"] += extra["snapshots"][0]["files"]
+        self.assertEqual(expected, self.collect())
+
+    def test_non_object_character_catalog_is_refused_even_with_other_valid_characters(self):
+        extra = snapshot(self.folder, "test/catalog", "catalog/other.json", b"[]")
+        self.sources["catalog"]["snapshots"][0]["files"] += extra["snapshots"][0]["files"]
+        with self.assertRaisesRegex(BuildError, "Invalid character catalog JSON: catalog/other.json"):
+            self.collect()
+
     def test_corrupt_saved_blob_is_refused(self):
         sha = self.sources["catalog"]["snapshots"][0]["files"][0]["sha"]
         (self.folder / "blobs" / sha).write_bytes(b"broken")
