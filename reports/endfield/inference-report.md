@@ -10,6 +10,7 @@ The parent shown is the one stored in the pack. Source rows describe the accepte
 | `Arcane` — Arcane | — (a character of its own) | Enka roster | explicit |
 | `Arclight` — Arclight | — (a character of its own) | Enka roster | explicit |
 | `Ardelia` — Ardelia | — (a character of its own) | Enka roster | explicit |
+| `ArgentFlow` — Argent Flow | — (a character of its own) | Enka roster | explicit |
 | `Avywenna` — Avywenna | — (a character of its own) | Enka roster | explicit |
 | `Camille` — Camille | — (a character of its own) | Enka roster | explicit |
 | `Catcher` — Catcher | — (a character of its own) | Enka roster | explicit |

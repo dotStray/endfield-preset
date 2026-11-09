@@ -1,14 +1,14 @@
 {
-  "changed": false,
-  "packVersion": "2026.10.17",
+  "changed": true,
+  "packVersion": "2026.11.09",
   "counts": {
-    "variants": 34,
+    "variants": 35,
     "skins": 0,
-    "images": 34
+    "images": 35
   },
   "gameIcon": "images/_game.webp",
   "hashes": {
-    "rosterVariants": 34,
+    "rosterVariants": 35,
     "currentEntries": 1652,
     "historicalOnlyEntries": 1292,
     "totalEntries": 2944,
@@ -1352,18 +1352,19 @@
     "manualEntries": 0
   },
   "warnings": [
+    "New hash source data failed validation (Unfamiliar catalog identity policy in tools/CustomModel/catalog/chr_0037_minghe.json); using saved snapshots",
     "Liino: kept bundled portrait (https://enka.network/ui/ef/charremoteicon/icon_chr_0035_liino.png: HTTP 404)"
   ],
-  "networkRequests": 12,
+  "networkRequests": 14,
   "manualReplacements": [],
-  "imageRequests": 1,
+  "imageRequests": 2,
   "archive": {
-    "packVersion": "2026.10.17",
+    "packVersion": "2026.11.09",
     "packSchemaVersion": 1,
     "minAppVersion": "0.1.0",
-    "url": "packs/endfield-2026.10.17.zip",
-    "sha256": "8c359047cc428e02d5dbb1067b5e796a15e21a9dac55d35a7c7ac1c32b8ced9c",
-    "sizeBytes": 813775,
-    "changelog": "34 characters; current and historical hashes."
+    "url": "packs/endfield-2026.11.09.zip",
+    "sha256": "10a5a0e741a467e82e0872ad938aa24d3bcb803ece069409685a61dfba8bdfc1",
+    "sizeBytes": 837180,
+    "changelog": "35 characters; current and historical hashes."
   }
 }

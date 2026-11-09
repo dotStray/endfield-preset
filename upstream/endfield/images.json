@@ -47,6 +47,14 @@
     "file": "images/Ardelia.webp",
     "packedSha256": "d51d10d951244112da9d66f774181201ee1797bcb226221578d103b6bcf45a1a"
   },
+  "ArgentFlow": {
+    "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0037_minghe.png",
+    "sha256": "b046fd4d91f5bb2631036288dc52a37b6b29ec90d9e37c7360b7cfa26c598058",
+    "roundIcon": false,
+    "initialSeed": false,
+    "file": "images/ArgentFlow.webp",
+    "packedSha256": "390b9c1bceb66b5ed5a76c1f09ca43603cb4d65695ee36c0c3c48a1759124a8c"
+  },
   "Avywenna": {
     "source": "https://enka.network/ui/ef/charremoteicon/icon_chr_0012_avywen.png",
     "sha256": "8660628d2607313f15a8842821f7aea243184d720e0523da4aa5693ed07ff698",

@@ -14,6 +14,7 @@ Source observations stay in `ledger/endfield.json`; checksum-verified snapshots 
 | `Arcane` — Arcane | 50 | 0 | 0 |
 | `Arclight` — Arclight | 39 | 45 | 0 |
 | `Ardelia` — Ardelia | 70 | 80 | 0 |
+| `ArgentFlow` — Argent Flow | 0 | 0 | 0 |
 | `Avywenna` — Avywenna | 35 | 31 | 0 |
 | `Camille` — Camille | 54 | 0 | 0 |
 | `Catcher` — Catcher | 45 | 63 | 0 |

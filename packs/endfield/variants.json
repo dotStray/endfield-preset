@@ -149,6 +149,33 @@
     "image": "images/Ardelia.webp"
   },
   {
+    "internalName": "ArgentFlow",
+    "displayName": "Argent Flow",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "ArgentFlow",
+    "aliases": [
+      "明河",
+      "Argent Flow",
+      "ミンホ",
+      "명하",
+      "Серебристый Поток",
+      "Silberfluss",
+      "Flux d'argent",
+      "อาร์​เจน​ท์​ โฟลว์",
+      "Flusso argentato",
+      "chr_0037_minghe"
+    ],
+    "attributes": {
+      "element": "Pulse",
+      "profession": "GUARD",
+      "weaponClass": "Sword",
+      "rarity": 6
+    },
+    "hashesPending": true,
+    "image": "images/ArgentFlow.webp"
+  },
+  {
     "internalName": "Avywenna",
     "displayName": "Avywenna",
     "baseCharacterId": null,
