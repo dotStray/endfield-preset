@@ -30,6 +30,9 @@ LOCS = {"en": {"1": "Ardelia"}, "zh": {"1": "阿黛莉娅"}}
 CATALOG = {"kind": "bem-character-catalog", "identity_policy": "efmi-dx11-region-texture0-fullchain-v1",
            "character_id": SOURCE_ID, "entries": {"abcdef12": 0}, "textures": {"aa000001": {"name": "Diffuse", "native_crc": "87654321"}},
            "entry_identity_evidence": {"0": {"source_hash": "abcdef12", "payload_sha256": "01234567" * 8}}, "preserved_globals": {"eeeeeeee": {}}}
+PENDING_CATALOG = {"kind": "bem-character-catalog", "character_id": "chr_0037_minghe",
+                   "mapping_status": "source-resource-identities-pending",
+                   "entries": {}, "textures": {}, "preserved_globals": {}}
 FIXER = b'''CHARACTERS = [{"name": "Ardelia", "components": [{"index": 0,
 "ib": ("11111111", "22222222"), "vb0": ("33333333", "44444444"),
 "lod_ib": (None, "55555555"), "lod_vb0": (None, "66666666")}], "textures": [("aa000001", "bb000001")]}]
@@ -148,6 +151,58 @@ class HashTests(unittest.TestCase):
         data["identity_policy"] = "unknown-native-crc-policy"
         self.sources["catalog"] = snapshot(self.folder, "test/catalog", "catalog/a.json", json.dumps(data).encode())
         with self.assertRaises(BuildError):
+            self.collect()
+
+    def test_empty_pending_catalog_does_not_change_character_hashes(self):
+        expected = self.collect()
+        extra = snapshot(self.folder, "test/catalog", "catalog/chr_0037_minghe.json", json.dumps(PENDING_CATALOG).encode())
+        self.sources["catalog"]["snapshots"][0]["files"] += extra["snapshots"][0]["files"]
+        self.assertEqual(expected, self.collect())
+
+    def test_pending_catalog_requires_present_empty_object_maps(self):
+        for field in ["entries", "textures", "preserved_globals"]:
+            for value in [None, [], False, 0, "", {"deadbeef": {}}]:
+                with self.subTest(field=field, value=value):
+                    data = {**PENDING_CATALOG, field: value}
+                    self.sources["catalog"] = snapshot(self.folder, "test/catalog", "catalog/a.json", json.dumps(data).encode())
+                    with self.assertRaisesRegex(BuildError, "Unfamiliar catalog identity policy"):
+                        self.collect()
+            with self.subTest(missing=field):
+                data = {key: value for key, value in PENDING_CATALOG.items() if key != field}
+                self.sources["catalog"] = snapshot(self.folder, "test/catalog", "catalog/a.json", json.dumps(data).encode())
+                with self.assertRaisesRegex(BuildError, "Unfamiliar catalog identity policy"):
+                    self.collect()
+
+    def test_pending_catalog_does_not_bypass_present_unknown_policy(self):
+        for policy in [None, "", "unknown-native-crc-policy"]:
+            for maps in [PENDING_CATALOG, CATALOG]:
+                with self.subTest(policy=policy, empty=maps is PENDING_CATALOG):
+                    data = {**maps, "mapping_status": PENDING_CATALOG["mapping_status"], "identity_policy": policy}
+                    self.sources["catalog"] = snapshot(self.folder, "test/catalog", "catalog/a.json", json.dumps(data).encode())
+                    with self.assertRaisesRegex(BuildError, "Unfamiliar catalog identity policy"):
+                        self.collect()
+
+    def test_empty_catalog_without_pending_status_still_requires_policy(self):
+        for status in [None, "", "unknown-status"]:
+            with self.subTest(status=status):
+                data = {**PENDING_CATALOG, "mapping_status": status}
+                if status is None:
+                    del data["mapping_status"]
+                self.sources["catalog"] = snapshot(self.folder, "test/catalog", "catalog/a.json", json.dumps(data).encode())
+                with self.assertRaisesRegex(BuildError, "Unfamiliar catalog identity policy"):
+                    self.collect()
+
+    def test_pending_catalog_still_validates_character_id(self):
+        for variant in [None, 17, "", "invalid"]:
+            with self.subTest(variant=variant):
+                data = {**PENDING_CATALOG, "character_id": variant}
+                self.sources["catalog"] = snapshot(self.folder, "test/catalog", "catalog/a.json", json.dumps(data).encode())
+                with self.assertRaisesRegex(BuildError, "Invalid catalog character ID"):
+                    self.collect()
+
+    def test_pending_catalog_alone_cannot_satisfy_current_identity_guard(self):
+        self.sources["catalog"] = snapshot(self.folder, "test/catalog", "catalog/a.json", json.dumps(PENDING_CATALOG).encode())
+        with self.assertRaisesRegex(BuildError, "Catalog has no current character identities"):
             self.collect()
 
     def test_native_identity_metadata_list_does_not_change_character_hashes(self):

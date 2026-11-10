@@ -134,7 +134,11 @@ def collect(folder, sources: dict, variants: list[dict], overrides: Overrides, p
                 raise BuildError(f"Invalid character catalog JSON: {file['path']}")
             if data.get("kind") != "bem-character-catalog":
                 continue
-            if data.get("identity_policy") != "efmi-dx11-region-texture0-fullchain-v1":
+            if data.get("identity_policy") != "efmi-dx11-region-texture0-fullchain-v1" and not (
+                "identity_policy" not in data
+                and data.get("mapping_status") == "source-resource-identities-pending"
+                and all(data.get(field) == {} for field in ["entries", "textures", "preserved_globals"])
+            ):
                 raise BuildError(f"Unfamiliar catalog identity policy in {file['path']}")
             variant = data["character_id"]
             if not isinstance(variant, str) or not re.fullmatch(r"chr_[a-z0-9_]+", variant):
